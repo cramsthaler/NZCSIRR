@@ -2,15 +2,10 @@
 title: Welcome to NZCSIRR!
 description: New Zealand Cyber Security Incident Reference Repository
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2024-08-15
 image: NZCSIRR_large.PNG
-categories:
-    - Example Category
-tags:
-    - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Welcome to NZCSIRR 
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+Lorem ipmsum
