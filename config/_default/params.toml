@@ -19,7 +19,7 @@ subtitle = "New Zealand Cyber Security Incident Reference Repository"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/NZCSIRR.PNG"
 
 [article]
 headingAnchor = false
