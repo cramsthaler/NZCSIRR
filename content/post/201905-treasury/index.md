@@ -22,11 +22,11 @@ categories:
 
 **References:**
 * Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
-[Local copy][def]
+[Local copy][def] [Local pdf][def1]
 * Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked)
 
 **Summary:**
-
 lorem ssd
 
 [def]: LocalCopy.html
+[def1]: LocalCopy.pdf
