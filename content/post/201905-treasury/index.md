@@ -15,10 +15,10 @@ categories:
     - Data Leak
 ---
 **Impacted Agency:**
-NZ Treasury
+* NZ Treasury
 
 **Impact:**
-Embargoed Government Budget data leaked
+* Embargoed Government Budget data leaked
 
 **References:**
 * Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
@@ -26,6 +26,7 @@ Embargoed Government Budget data leaked
 * Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked)
 
 **Summary:**
+
 lorem ssd
 
 [def]: LocalCopy.html
