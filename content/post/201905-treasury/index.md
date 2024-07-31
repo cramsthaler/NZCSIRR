@@ -1,5 +1,5 @@
 ---
-title: "201905 Treasury"
+title: "NZ Treasury - Unauthorised access to Budget information"
 description: 
 date: 2019-05-30
 image: 
@@ -14,7 +14,7 @@ tags:
 categories:
     - Data leak
 ---
-Impacted Agency: Treasury NZ
+Impacted Agency: NZ Treasury
 
 Impact: Embargoed Government Budget data leaked 
 
@@ -22,5 +22,8 @@ Summary:lorem
 
 References:
 Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
-[Local copy:](Unauthorised access to Budget information _ The Treasury New Zealand (7_31_2024 8_31_07 PM).html)
+[Local copy][def]
+
 Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked)
+
+[def]: LocalCopy.html
