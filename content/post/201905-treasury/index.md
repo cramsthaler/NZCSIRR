@@ -14,13 +14,16 @@ tags:
 categories:
     - Data leak
 ---
-Impacted Agency: NZ Treasury
+**Impacted Agency:**
+NZ Treasury
 
-Impact: Embargoed Government Budget data leaked 
+**Impact:**
+Embargoed Government Budget data leaked 
 
-Summary:lorem
+**Summary:**
+lorem
 
-References:
+**References:**
 Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
 [Local copy][def]
 
