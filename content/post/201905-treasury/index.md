@@ -9,10 +9,10 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Miss Configuration
-    - public sector
+    - Misconfiguration
+    - Public Sector
 categories:
-    - Data leak
+    - Data Leak
 ---
 **Impacted Agency:**
 NZ Treasury
@@ -20,13 +20,14 @@ NZ Treasury
 **Impact:**
 Embargoed Government Budget data leaked 
 
-**Summary:**
-lorem
+
 
 **References:**
-Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
+* Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
 [Local copy][def]
+* Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked)
 
-Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked)
+**Summary:**
+lorem
 
 [def]: LocalCopy.html
