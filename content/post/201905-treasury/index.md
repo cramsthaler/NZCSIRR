@@ -21,12 +21,11 @@ categories:
 * Embargoed Government Budget data leaked
 
 **References:**
-* Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information)
-[Local copy][def] [Local pdf][def1]
-* Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked)
+* Treasury News page: [https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information](https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information) - [Local pdf copy][def] 
+* Secondary source:[https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked](https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked) - [Local pdf copy][def1]
 
 **Summary:**
 lorem ssd
 
-[def]: LocalCopy.html
-[def1]: LocalCopy.pdf
+[def]: TheTreasuryNewZealand.pdf
+[def1]: TheDailySwig.pdf
