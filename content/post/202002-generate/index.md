@@ -17,12 +17,12 @@ categories:
 * Generate
 
 **Impact:**
-* Potential idendity theft
-* Victims were offered to replace their ID's (e.g NZ passport) 
+* Potential idendity theft for approx 26000 NZ residents
+* Victims were offered to replace their ID's (e.g NZ passport or drivers license) 
 
 **References:**
-* 1
-* 1
+* The original post from the Generate website has been de-published (approx 2023). Here is the site on web archive org:[https://web.archive.org/web/20201124224506/https://www.generatewealth.co.nz/data-security-incident](https://web.archive.org/web/20201124224506/https://www.generatewealth.co.nz/data-security-incident) - [Local pdf copy](WebArchiveOrg.pdf) 
+* The Daily Swig: [https://portswigger.net/daily-swig/generate-data-breach-impacts-26-000-new-zealand-residents](https://portswigger.net/daily-swig/generate-data-breach-impacts-26-000-new-zealand-residents) - [Local pdf copy](TheDailySwig.pdf)
 
 **Summary:**
 * 1
