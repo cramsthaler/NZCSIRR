@@ -36,3 +36,6 @@ categories:
   * e. 15 August 2019 – Tū Ora issued a press release stating that is website had come under attack but did not disclose the likelihood that unencrypted personally identifiable information was also stored on that same server.
   * f. 15 August 2019 – NCSC provided an update that three further server exploits were found on the server. Based on the information available to date, the server was compromised twice in 2016, and twice in 2019.
 * Additionally, access to Tū Ora’s environment would provide access to data held on over one million people that have lived within the geographic area of Capital and Coast, Wairarapa and Mid Central DHBs and registered with a GP over the last 17 years.
+* Privacy Commissioner John Edwards said his office was notified of the breach in early September then had a full briefing on September 9.
+"At the time I was briefed, it appeared that the vulnerability did not compromise detailed patient information such as consultation notes, however I was advised that there was a risk that enrolment records, including identifying information, diagnostic codes and lab results might have been able to be accessed by a third party.
+"I was advised that it was not possible to say with certainty whether any of that identifiable data had been accessed and/or exfiltrated." 
