@@ -1,5 +1,5 @@
 ---
-title: "Generate"
+title: "Generate data breach impacts 26,000 New Zealand residents"
 description: 
 date: 2020-02-12
 image: 
