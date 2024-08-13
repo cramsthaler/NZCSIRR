@@ -23,9 +23,9 @@ categories:
 * Web Defacement
 
 **References:**
-* Report Health NZ: [https://www.health.govt.nz/system/files/documents/pages/weekly_report_item_16_august_2018_-_tu_ora_compass_health_incident_redacted.pdf] (https://www.health.govt.nz/system/files/documents/pages/weekly_report_item_16_august_2018_-_tu_ora_compass_health_incident_redacted.pdf) [Local Copy](HealthNZ_report.pdf) 
-* Memorandum Health NZ: https://www.health.govt.nz/system/files/documents/pages/memorandum_13_september_20191772_redacted.pdf 
-* Ministry of Health responds to unauthorised digital intrusion at Tū Ora Compass Health: https://www.youtube.com/watch?v=eIFJzc9msaI
+* Report Health NZ: [https://www.health.govt.nz/system/files/documents/pages/weekly_report_item_16_august_2018_-_tu_ora_compass_health_incident_redacted.pdf](https://www.health.govt.nz/system/files/documents/pages/weekly_report_item_16_august_2018_-_tu_ora_compass_health_incident_redacted.pdf) -  [Local Copy](HealthNZ_report.pdf) 
+* Memorandum Health NZ: [https://www.health.govt.nz/system/files/documents/pages/memorandum_13_september_20191772_redacted.pdf](https://www.health.govt.nz/system/files/documents/pages/memorandum_13_september_20191772_redacted.pdf) - [Local Copy](HealthNZ_Memorandum.pdf)
+* Video Press Conference: Ministry of Health responds to unauthorised digital intrusion at Tū Ora Compass Health: [https://www.youtube.com/watch?v=eIFJzc9msaI](https://www.youtube.com/watch?v=eIFJzc9msaI)
 * Stuff NZ: https://www.stuff.co.nz/dominion-post/news/116318497/up-to-1-million-new-zealand-patients-data-breached-in-criminal-cyber-hack#:~:text=Up%20to%201%20million%20New%20Zealanders%20could%20have%20their%20medical,and%202019%20could%20be%20affected.
 * RNZ: https://www.rnz.co.nz/news/national/400337/pho-hack-more-data-breaches-found-involving-up-to-a-million-patients
 
