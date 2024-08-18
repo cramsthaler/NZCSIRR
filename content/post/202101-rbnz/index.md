@@ -24,10 +24,13 @@ categories:
   * $1,800,000 spent on specialist external resources, these being individuals to supplement our staff on the stream activity or organisations delivering a defined piece of work.
 
 **References:**
+* Reserve Bank responding to illegal breach of data system [https://www.rbnz.govt.nz/hub/news/2021/01/reserve-bank-responding-to-illegal-breach-of-data-system](https://www.rbnz.govt.nz/hub/news/2021/01/reserve-bank-responding-to-illegal-breach-of-data-system)
 * RBNZ - Our response to the data breach [https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach](https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach)
 * KPMG report [https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/data-breach/kpmg-incident-assessment.pdf](https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/data-breach/kpmg-incident-assessment.pdf)
 * Privacy Commissioner: Compliance Notice issued to Reserve Bank of New Zealand following cyber attack [https://www.privacy.org.nz/publications/statements-media-releases/compliance-notice-issued-to-reserve-bank-of-new-zealand-following-cyber-attack/](https://www.privacy.org.nz/publications/statements-media-releases/compliance-notice-issued-to-reserve-bank-of-new-zealand-following-cyber-attack/)
+* RBNZ governor 'apologises unreservedly' for data breach [https://www.rnz.co.nz/news/business/434593/rbnz-governor-apologises-unreservedly-for-data-breach](https://www.rnz.co.nz/news/business/434593/rbnz-governor-apologises-unreservedly-for-data-breach)
+* Reserve Bank of New Zealand says it wasn't directly targeted in cyber attack [https://www.rnz.co.nz/news/business/434359/reserve-bank-of-new-zealand-says-it-wasn-t-directly-targeted-in-cyber-attack](https://www.rnz.co.nz/news/business/434359/reserve-bank-of-new-zealand-says-it-wasn-t-directly-targeted-in-cyber-attack)
 
 **Summary:**
 * The hack took place on Christmas Day 2020, and the RBNZ went public about the data breach on January 11, noting it included commercially and personally sensitive information.
-* 
+* "We have been advised by the third party provider that this wasn't a specific attack on the Reserve Bank, and other users of the file sharing application were also compromised," Orr said. 
