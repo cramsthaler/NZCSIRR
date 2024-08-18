@@ -10,9 +10,9 @@ comments: false
 draft: false
 tags: 
     - Public Sector
-    - Data Breach
 categories:
     - 3rd Party
+    - Data Leak
 ---
 **Impacted Agency:**
 * RBNZ - Reserve Bank of New Zealand
