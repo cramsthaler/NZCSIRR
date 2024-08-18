@@ -31,7 +31,9 @@ The main details of the costs include:
  * services related to physical facilities including the set up of a response room to allow co-location of the response team. Additional physical security was also required onsite.
 
 **References:**
-* 1
+* RBNZ - Our response to the data breach [https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach](https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach)
+* KPMG report [https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/data-breach/kpmg-incident-assessment.pdf](https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/data-breach/kpmg-incident-assessment.pdf)
+* Privacy Commissioner: Compliance Notice issued to Reserve Bank of New Zealand following cyber attack [https://www.privacy.org.nz/publications/statements-media-releases/compliance-notice-issued-to-reserve-bank-of-new-zealand-following-cyber-attack/](https://www.privacy.org.nz/publications/statements-media-releases/compliance-notice-issued-to-reserve-bank-of-new-zealand-following-cyber-attack/)
 
 **Summary:**
 * The hack took place on Christmas Day 2020, and the RBNZ went public about the data breach on January 11, noting it included commercially and personally sensitive information.
