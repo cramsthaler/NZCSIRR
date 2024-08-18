@@ -1,7 +1,7 @@
 ---
 title: "Mercury IT (Managed Service Provider - MSP) Ransomware attack"
 description: 
-date: 2022-12-12
+date: 2022-12-06
 image: 
 math: 
 license: 
