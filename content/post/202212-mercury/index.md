@@ -24,6 +24,7 @@ categories:
 **References:**
 * Response to managed service provider cyber security incident [https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F](https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F)
 * Privacy Commissioner considers action on ransomware attack [https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/](https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/)
+* MoJ Statement - Cyber security incident [https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/](https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/)
 * Multiple government departments in New Zealand affected by ransomware attack on IT provider [https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider](https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider)
 * Investigation underway into cyber attack which hit thousands of coronial and health files [https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files](https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files)
 
