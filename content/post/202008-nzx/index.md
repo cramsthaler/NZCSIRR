@@ -17,7 +17,9 @@ categories:
 * NZX
 
 **Impact:**
-* 1
+* The DDoS attacks caused multiple outages, leading to the suspension of trading on the NZX for several days. The exchange experienced interruptions on August 25, 26, and 27, and then again on August 28 and 31. This was a significant disruption as it affected market confidence and the ability of investors to trade.
+* The trading halts affected not only NZX but also had ripple effects on the broader financial market in New Zealand. Traders and investors were unable to execute orders, which could have led to financial losses, missed opportunities, and overall market uncertainty.
+
 
 **References:**
 * Major DDoS attack causes NZX outage, trading halt [https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-outage-trading-halt](https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-outage-trading-halt)
