@@ -11,7 +11,7 @@ draft: false
 tags: 
     - Public Sector
 categories:
-    - Ransoware
+    - Ransomware
 ---
 **Impacted Agency:**
 * Waikato District Health Board
