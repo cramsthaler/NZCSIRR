@@ -14,7 +14,7 @@ categories:
     - DDOS
 ---
 **Impacted Agency:**
-* New Zealand’s Stock Exchange - NZX [https://www.nzx.com/] (https://www.nzx.com/)
+* New Zealand’s Stock Exchange - NZX [https://www.nzx.com/](https://www.nzx.com/)
 
 **Impact:**
 * The DDoS attacks caused multiple outages, leading to the suspension of trading on the NZX for several days. The exchange experienced interruptions on August 25, 26, and 27, and then again on August 28 and 31. This was a significant disruption as it affected market confidence and the ability of investors to trade.
