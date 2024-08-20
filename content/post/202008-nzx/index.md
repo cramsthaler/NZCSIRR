@@ -30,6 +30,11 @@ categories:
 * FMA releases review of NZX technology issues [https://www.fma.govt.nz/news/all-releases/media-releases/fma-releases-review-of-nzx-technology-issues/](https://www.fma.govt.nz/news/all-releases/media-releases/fma-releases-review-of-nzx-technology-issues/)
 * FMA - Market Operator Obligations
 Targeted Review – NZX [https://www.fma.govt.nz/assets/Reports/Market-Operator-Obligations-Targeted-Review-NZX.pdf](https://www.fma.govt.nz/assets/Reports/Market-Operator-Obligations-Targeted-Review-NZX.pdf)
+* Akamai report: [https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail]()
+* Akamai report: [https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail]()
+* Akamai report: [https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail](https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail)
 
 **Summary:**
-* 1
+* NZX or NCSC have not published more details on the attack, e.g. attacker attribution or volumes of the DDOS attack
+* Akamai reported that NZX was one of many victims worldwide and attributing it to "Armada Collective and Fancy Bear" who are sending out the ransom letters
+* In addition to the information in our (Akamai) previous advisory, we can confirm that we're now seeing attacks peak at almost 200 Gb/sec, utilizing ARMS, DNS Flood, GRE Protocol Flood, SNMP Flood, SYN Flood, and WSDiscovery Flood attacks as their main vectors. 
