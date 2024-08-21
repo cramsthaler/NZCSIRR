@@ -1,7 +1,7 @@
 ---
 title: "NZTA- Transport Agency privacy breach: 1500 motorists' information illegally accessed"
 description: 
-date: 2024-05-23
+date: 2024-04-24
 image: 
 math: 
 license: 
@@ -11,20 +11,24 @@ draft: false
 tags: 
     - Public Sector
 categories:
-    - 3rd Party
+    - Insider
 ---
 **Impacted Agency:**
 * NZTA - New Zealand Transport Agency
 
 **Impact:**
-* 1,480 individuals had their personal information held on the Driver Licence Register (DLR) or Motor Vehicle Register (MVR) has been illegally accessed.
-* The information accessed includes customers’ full name and address, or the status, conditions and endorsements on their driver licences.
+* The registers contain information about motorists and their vehicles, such as their contact details and addresses.
+* It is unclear precisely how many times she accessed the databases nor how many people's personal information she passed on.
+* Information about vehicles and drivers was used to assult victims
 
 **References:**
-* RNZ - Transport Agency privacy breach: 1500 motorists' information illegally accessed [https://www.rnz.co.nz/news/national/517635/transport-agency-privacy-breach-1500-motorists-information-illegally-accessed](https://www.rnz.co.nz/news/national/517635/transport-agency-privacy-breach-1500-motorists-information-illegally-accessed)
-* NZTA investigating privacy breach following illegal access of information held on driver licence and motor vehicle registers [https://www.nzta.govt.nz/media-releases/nzta-investigating-privacy-breach-following-illegal-access-of-information-held-on-driver-licence-and-motor-vehicle-registers/](https://www.nzta.govt.nz/media-releases/nzta-investigating-privacy-breach-following-illegal-access-of-information-held-on-driver-licence-and-motor-vehicle-registers/)
+* The Post - ‘Significant breach’: NZTA employee passed on personal details for drugs [https://www.thepost.co.nz/nz-news/350254651/significant-breach-nzta-employee-passed-personal-details-drugs](https://www.thepost.co.nz/nz-news/350254651/significant-breach-nzta-employee-passed-personal-details-drugs)
+* Stuff - NZTA employee traded driver database details for drugs [https://www.stuff.co.nz/nz-news/350354782/nzta-employee-traded-driver-database-details-drugs](https://www.stuff.co.nz/nz-news/350354782/nzta-employee-traded-driver-database-details-drugs)
+* RNZ - NZTA employee traded motorists' private information to gang members for meth [https://www.rnz.co.nz/news/national/523154/nzta-employee-traded-motorists-private-information-to-gang-members-for-meth] (https://www.rnz.co.nz/news/national/523154/nzta-employee-traded-motorists-private-information-to-gang-members-for-meth)
+
 
 **Summary:**
-* A motor vehicle trader with authorised access to the DLR and the MVR had their account compromised. NZTA also notified the New Zealand Police and the Office of the Privacy Commissioner.
-* The illegally accessed information was gained through MotorWeb, a third-party on-line portal, after the identity of a motor vehicle trader and its staff was used to create a fraudulent account to access information held on the MVR and DLR.  
-* MotorWeb immediately cancelled the account when they discovered its existence and advised NZTA of the privacy breach. 
+* Insider had worked for NZTA for roughly eight years before she began dating a member of the King Cobras.
+* From mid-2021 through to March 2023, she accessed the motor vehicle register and driver licensing register, which is a secure database housed at NZTA and requires employees to sign a code of conduct before they are allowed to use it.
+* She would look up drivers or vehicles in the databases and pass the information to her then partner and other members of the gang. She was given meth as payment.
+* She came up with a set of rules for herself about when she would access the information as well as a cover story that she was simply making sure a vehicle she wanted to buy had a clean record.
