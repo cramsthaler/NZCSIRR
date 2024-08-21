@@ -17,7 +17,7 @@ categories:
 * NZTA - New Zealand Transport Agency
 
 **Impact:**
-* * 1,480 individuals had their personal information held on the Driver Licence Register (DLR) or Motor Vehicle Register (MVR) has been illegally accessed.
+* 1,480 individuals had their personal information held on the Driver Licence Register (DLR) or Motor Vehicle Register (MVR) has been illegally accessed.
 * The information accessed includes customers’ full name and address, or the status, conditions and endorsements on their driver licences.
 
 **References:**
