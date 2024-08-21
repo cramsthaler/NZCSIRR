@@ -20,7 +20,6 @@ categories:
 * * 1,480 individuals had their personal information held on the Driver Licence Register (DLR) or Motor Vehicle Register (MVR) has been illegally accessed.
 * The information accessed includes customers’ full name and address, or the status, conditions and endorsements on their driver licences.
 
-
 **References:**
 * RNZ - Transport Agency privacy breach: 1500 motorists' information illegally accessed [https://www.rnz.co.nz/news/national/517635/transport-agency-privacy-breach-1500-motorists-information-illegally-accessed](https://www.rnz.co.nz/news/national/517635/transport-agency-privacy-breach-1500-motorists-information-illegally-accessed)
 * NZTA investigating privacy breach following illegal access of information held on driver licence and motor vehicle registers [https://www.nzta.govt.nz/media-releases/nzta-investigating-privacy-breach-following-illegal-access-of-information-held-on-driver-licence-and-motor-vehicle-registers/]
