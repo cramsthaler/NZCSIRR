@@ -25,7 +25,7 @@ to be added here, the incident has to:
 * have a connection to New Zealand, e.g. the impacted agancy is in NZ or it has an impact on NZ society etc.
 
 **Post format:**
-Each post has categaories and tags assigned for easy searching and gruping and all posts are structured in the same format:
+Each incident post has categaories and tags assigned for easy searching and grouping. All posts are structured in the same format:
 * Name of the impacted agency
 * Impact of the incident
 * References > links to the publically available resources
