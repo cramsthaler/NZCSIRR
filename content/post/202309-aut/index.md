@@ -10,7 +10,7 @@ comments: false
 draft: false
 tags: 
     - Public Sector
-          -  Vulnerability
+    - Vulnerability
 categories:
     - Ransomware
     - Data Leak
@@ -26,7 +26,7 @@ categories:
 
 **References:**
 * The Record [https://therecord.media/auckland-university-operating-cyberattack](https://therecord.media/auckland-university-operating-cyberattack)
-* Stuff [https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology]() (https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology)
+* Stuff [https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology](https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology)
 **Summary:**
 * In September 2023, AUT became the target of a ransomware attack.
 * Hackers claimed they had stolen a significant amount of sensitive data and threatened to release it publicly if a ransom was not paid.
