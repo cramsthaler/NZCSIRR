@@ -1,5 +1,5 @@
 ---
-title: "Auckland University Cyberattack: Hackers Threaten Data Dump after Significant Breach"
+title: "Auckland University Cyberattack: Significant Breach"
 description: 
 date: 2023-09-22
 image: 
