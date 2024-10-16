@@ -10,14 +10,11 @@ weight: 1       # You can add weight to some posts to override the default sorti
 Welcome to NZCSIRR 
 
 **Objective:**
-The intend for this page is to create a repository of published New Zealand specific Cyber Security Incidents. Only incidents with publicly available reference are included here.
-Whether you are a new starter in the industry and were not around yet when those incidents happened or you are a seasoned GRC consultant and can't quite re-call what the name of the agency was that got badly owned, you can bookmark this page here and easily have this information at your fingertips.
+This page serves as a repository of publicly documented cybersecurity incidents specific to New Zealand. It includes only incidents with publicly available references. 
+Whether you're just starting out in the industry and missed these events, or you're a seasoned GRC consultant needing to refresh your memory on past incidents, this page offers a convenient resource for quick access to relevant information.
 
 **Motivation:**
-How many times during risk assessments have cyber security non-believers argued with you, that this risk will never eventuate in my business, my industry, in New Zealand? 
-Or the consequences you estimated were challenged?  A common approach to justify ratings is with examples of when it happened before, but many of the "good" examples are usually from overseas and larger corporates.
-A lot of incident details are shared behind closed doors, in infomration exchanges or in trust groups. Consequently this information can't be publicly shared and is not available to make better risk decissions.
-This Repository here will give you links to specific New Zealand incidents as well as New Zealand specific statistics, so you can make better decissions around risk ratings and educating decission makers in your organisations. 
+How many times during risk assessments have cybersecurity skeptics claimed, "This risk will never impact my business, my industry, or New Zealand"? Or perhaps they’ve questioned your impact estimates? While examples are often used to justify risk ratings, many of the most relevant cases are from overseas or large corporations. Unfortunately, much of the detailed incident information is shared privately, limiting its use in public decision-making. This repository offers links to New Zealand-specific incidents and statistics, enabling you to make more informed risk assessments and educate decision-makers within your organization. 
 
 **Criteria:**
 to be added here, the incident has to:
@@ -31,8 +28,8 @@ Each incident post has categaories and tags assigned for easy searching and grou
 * References > links to the publically available resources
 * Short summary of the incident
 
-**Feedback & Additions**
-If you would like to see other incidents added here, please send me the link to the publications via DM in [LinkedIn:](https://www.linkedin.com/in/chrisramsthaler/) 
+**Feedback & Additions:**
+If you would like to see other incidents added here, please send me the link to the publications via DM in [LinkedIn](https://www.linkedin.com/in/chrisramsthaler/) 
 
 **Versioning:**
 | Version  | Date     | Comment                                             |
