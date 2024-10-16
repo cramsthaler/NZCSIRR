@@ -26,7 +26,7 @@ Each incident post has categaories and tags assigned for easy searching and grou
 * Short summary of the incident
 
 **Feedback & Additions:**
-If you would like to see other incidents added here, please send me the link to the publications via DM in [LinkedIn](https://www.linkedin.com/in/chrisramsthaler/) 
+If you would like to see other incidents added here, please send me the link to the publications or any other feedaback via DM in [LinkedIn](https://www.linkedin.com/in/chrisramsthaler/) 
 
 **Versioning:**
 | Version  | Date     | Comment                                             |
