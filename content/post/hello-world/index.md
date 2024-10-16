@@ -23,3 +23,10 @@ This Repository here will give you links to specific New Zealand incidents as we
 to be added here, the incident has to:
 * be publicaly disclosed and have a citable reference (e.g. news article or media release etc)
 * have a connection to New Zealand, e.g. the impacted agancy is in NZ or it has an impact on NZ society etc.
+
+**Post format:**
+Each post has categaories and tags assigned for easy searching and gruping and all posts are structured in the same format:
+* Name of the impacted agency
+* Impact of the incident
+* References > links to the publically available resources
+* Short summary of the incident
