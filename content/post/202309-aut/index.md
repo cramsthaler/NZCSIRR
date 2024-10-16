@@ -12,8 +12,8 @@ tags:
 - Public Sector
 - Vulnerability
 categories:
-   - Ransomware
-   - Data Leak
+- Ransomware
+- Data Leak
 ---
 **Impacted Agency:**
 * Auckland University of Technology (AUT)
