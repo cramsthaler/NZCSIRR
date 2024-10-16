@@ -30,3 +30,11 @@ Each post has categaories and tags assigned for easy searching and gruping and a
 * Impact of the incident
 * References > links to the publically available resources
 * Short summary of the incident
+
+**Feedback & Additions**
+If you would like to see other incidents added here, please send me the link to the publications via DM in [LinkedIn:](https://www.linkedin.com/in/chrisramsthaler/) 
+
+**Versioning:**
+| Version  | Date     | Comment                                             |
+| -------- | -------- | ----------------------------------------------------|
+| 1.0      | 11/10/2024| Initial Publication: 12 NZ incidents from 2019-2024|
