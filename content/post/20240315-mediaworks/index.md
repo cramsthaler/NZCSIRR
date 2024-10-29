@@ -9,12 +9,13 @@ hidden: false
 comments: false
 draft: false
 tags: 
-- Private Sector
-- Vulnerability
-- Misconfiguration
+- MediaWorks
 categories:
 - Ransomware
 - Data Leak
+- Private Sector
+- Vulnerability
+- Misconfiguration
 ---
 **Impacted Agency:**
 * MediaWorks, a prominent New Zealand-based broadcasting company

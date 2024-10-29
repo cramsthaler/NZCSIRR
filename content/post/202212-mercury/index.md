@@ -9,9 +9,10 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Private Sector
+    - Mercury IT
 categories:
     - Ransomware
+    - Private Sector
 ---
 **Impacted Agency:**
 * Mercury IT and it's customers, e.g. NZ governament agencies (Ministry of Justice; Te Whatu Ora)

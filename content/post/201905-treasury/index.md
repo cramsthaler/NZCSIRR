@@ -9,10 +9,11 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Misconfiguration
-    - Public Sector
+    - NZ Treasury
 categories:
     - Data Leak
+    - Misconfiguration
+    - Public Sector
 ---
 **Impacted Agency:**
 * NZ Treasury

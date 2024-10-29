@@ -9,9 +9,10 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Public Sector
+    - Waikato DHB
 categories:
     - Ransomware
+    - Public Sector
 ---
 **Impacted Agency:**
 * Waikato District Health Board

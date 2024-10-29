@@ -9,9 +9,11 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Private Sector
+    - Generate Wealth
+    
 categories:
     - Idendity theft
+    - Private Sector
 ---
 **Impacted Agency:**
 * Generate [https://www.generatewealth.co.nz/](https://www.generatewealth.co.nz/)

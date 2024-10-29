@@ -17,6 +17,7 @@ categories:
 ---
 **Impacted Agency:**)
 * Lantech - Auckland IT provider (now https://cogent.co.nz/
+
 **Impact:**
 * Lantech chief executive Ray Noonan told the Herald, “On May 29, Lantech experienced a cyber security incident impacting its vOffice platform with a limited number of customers impacted.
 * “As soon as Lantech became aware of this issue we engaged external specialist support, our investigations are in the early stages, and we have informed and are working with the relevant government agencies.

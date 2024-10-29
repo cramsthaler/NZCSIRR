@@ -15,6 +15,7 @@ categories:
     - 3rd party
     - Private Sector
     - Ransom
+    - Idendity Theft
 ---
 **Impacted Agency:**
 * Latitude (although this is an Australian company it had an impact on many New Zealanders)

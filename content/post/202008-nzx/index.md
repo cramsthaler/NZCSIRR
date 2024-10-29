@@ -9,9 +9,10 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Private Sector
+    - NZX
 categories:
     - DDOS
+    - Private Sector
 ---
 **Impacted Agency:**
 * New Zealand’s Stock Exchange - NZX [https://www.nzx.com/](https://www.nzx.com/)

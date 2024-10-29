@@ -9,11 +9,13 @@ hidden: false
 comments: false
 draft: false
 tags: 
-    - Vulnerability
-    - Private Sector
+    - Tū Ora Compass Health
+
 categories:
     - Data Leak
     - Web Defacement
+    - Vulnerability
+    - Private Sector
 ---
 **Impacted Agency:**
 * Tū Ora Compass Health
