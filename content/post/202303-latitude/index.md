@@ -12,9 +12,9 @@ tags:
 - Latitude
 categories:
 - Data Leak
-    - 3rd party
-    - Private Sector
-    - Ransom
+- 3rd party
+- Private Sector
+- Ransom
 ---
 **Impacted Agency:**
 * Latitude (although this is an Australian company it had an impact on many New Zealanders)
@@ -33,7 +33,7 @@ categories:
 * Where needed Latitude reimbursed customers for the replacement cost of their stolen ID document.
 
 **References:**
-* Latitude "Statement of Notification" [https://www.latitudefinancial.com.au/cyber-statement-of-notification/#note-1](https://www.latitudefinancial.com.au/cyber-statement-of-notification/#note-1)
+* Latitude "Statement of Notification" [https://www.latitudefinancial.com.au/cyber-statement-of-notification](https://www.latitudefinancial.com.au/cyber-statement-of-notification)
 * Latitude Cyber Response [https://www.latitudefinancial.com.au/latitude-cyber-incident/](https://www.latitudefinancial.com.au/latitude-cyber-incident/)
 * NZ Privacy Commissioner: "New Zealand-Australia investigation into Latitude breach begins" [https://www.privacy.org.nz/publications/statements-media-releases/new-zealand-australia-investigation-into-latitude-breach-begins/](https://www.privacy.org.nz/publications/statements-media-releases/new-zealand-australia-investigation-into-latitude-breach-begins/)
 * GemFinance: "Latitude Cyber Incident Update" (original de-published, link to archive.org) [https://web.archive.org/web/20240508040501/https://gemfinance.zendesk.com/hc/en-nz/articles/13777730237713-Latitude-Cyber-Incident-Update](https://web.archive.org/web/20240508040501/https://gemfinance.zendesk.com/hc/en-nz/articles/13777730237713-Latitude-Cyber-Incident-Update)
