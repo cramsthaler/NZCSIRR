@@ -29,7 +29,8 @@ Each incident post has categaories and tags assigned for easy searching and grou
 If you would like to see other incidents added here, please send me the link to the publications or any other feedaback via DM in [LinkedIn](https://www.linkedin.com/in/chrisramsthaler/) 
 
 **Versioning:**
-| Version  | Date     | Comment                                             |
-| -------- | -------- | ----------------------------------------------------|
-| 1.01     | 29/10/2024| added 3 more incidents|
+| Version  | Date     | Comment                                                   |
+| -------- | -------- | ----------------------------------------------------------|
+| 1.01     | 29/10/2024| added 3 more incidents           |
+| -------- | -------- | ----------------------------------------------------------|
 | 1.0      | 11/10/2024| Initial Publication: 11 NZ incidents from 2019-2024 & 1 report|
