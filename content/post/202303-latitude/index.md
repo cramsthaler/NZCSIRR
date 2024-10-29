@@ -9,11 +9,11 @@ hidden: false
 comments: false
 draft: false
 tags: 
-- Latitude
+    - Latitude
 categories:
-- Data Leak
-- 3rd party
-- Private Sector
+    - Data Leak
+    - 3rd party
+    - Private Sector
 - Ransom
 ---
 **Impacted Agency:**
