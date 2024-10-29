@@ -1,7 +1,7 @@
 ---
 title: "Latitude cyber attack"
 description: 
-date: 2024-03-16
+date: 2023-03-16
 image: 
 math: 
 license: 
