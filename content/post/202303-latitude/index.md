@@ -14,7 +14,7 @@ categories:
     - Data Leak
     - 3rd party
     - Private Sector
-- Ransom
+    - Ransom
 ---
 **Impacted Agency:**
 * Latitude (although this is an Australian company it had an impact on many New Zealanders)
