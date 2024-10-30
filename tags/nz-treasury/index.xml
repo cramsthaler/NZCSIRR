@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NZ Treasury on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/tags/nz-treasury/</link><description>Recent content in NZ Treasury on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/tags/nz-treasury/index.xml" rel="self" type="application/rss+xml"/><item><title>NZ Treasury - Unauthorised access to Budget information</title><link>https://cramsthaler.github.io/NZCSIRR/p/nz-treasury-unauthorised-access-to-budget-information/</link><pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/nz-treasury-unauthorised-access-to-budget-information/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZ Treasury&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Embargoed Government Budget data leaked&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Treasury News page: &lt;a class="link" href="https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information" target="_blank" rel="noopener"
+>https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information&lt;/a> - &lt;a class="link" href="TheTreasuryNewZealand.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;li>Secondary source:&lt;a class="link" href="https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked" target="_blank" rel="noopener"
+>https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked&lt;/a> - &lt;a class="link" href="TheDailySwig.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>An unknown person exploited a feature in the Treasury&amp;rsquo;s website search tool, but this was not deemed unlawful by the Police, so no further action is planned.&lt;/li>
+&lt;li>The Treasury and National Cyber Security Centre are investigating the incident, revealing that a clone of the Treasury website, intended for Budget 2019, contained indexed content that was accessible via specific search terms.&lt;/li>
+&lt;li>Approximately 2,000 search terms were used to extract small amounts of information from the 2019/20 Estimates documents, using phrases from the 2018 Budget followed by “Summary” of each Vote.&lt;/li>
+&lt;li>The searches were systematic and persistent, involving three IP addresses belonging to the Parliamentary Service, 2degrees, and Vocus.&lt;/li>
+&lt;li>The incident led to unauthorized access to limited content from the 2019/20 Estimates documents, intended to be confidential until Budget Day.&lt;/li>
+&lt;li>Treasury Secretary Gabriel Makhlouf acknowledged the breach and announced a review to enhance security and prevent future incidents, with the State Services Commissioner asked to conduct an inquiry.&lt;/li>
+&lt;/ul></description></item></channel></rss>

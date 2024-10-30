@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MediaWorks on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/tags/mediaworks/</link><description>Recent content in MediaWorks on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/tags/mediaworks/index.xml" rel="self" type="application/rss+xml"/><item><title>MediaWorks Data Breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks, a prominent New Zealand-based broadcasting company&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks notified around 403,000 individuals that information they supplied as part of a competition entry had been involved in a cyber attack. The affected database included entries for online competitions dating back to 2016.&lt;/li>
+&lt;li>The types of information held in this database and accessed by the attacker include name, date of birth, gender, postal address and/or post code, email address, phone number, and in some cases images or videos that may have been submitted as part of the entry.&lt;/li>
+&lt;li>Importantly, the affected database did not contain passwords, identity documents, financial information, bank accounts or credit card details.&lt;/li>
+&lt;li>Hackers have begun contacting victims directly via email, demanding NZD $820 to prevent their data from being leaked.&lt;/li>
+&lt;li>Widespread concern among victims and significant reputational damage for MediaWorks.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mediaworks page on webarchive &lt;a class="link" href="https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html" target="_blank" rel="noopener"
+>https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In March 2024, MediaWorks experienced a significant data breach, allegedly carried out by cybercriminals who gained access to the company’s systems and exfiltrated personal data of New Zealanders.&lt;/li>
+&lt;li>The hackers have contacted individuals affected by the breach, demanding ransom payments in exchange for not leaking their personal information.&lt;/li>
+&lt;li>Law enforcement agencies are involved in investigating the attack, and MediaWorks has issued guidance to individuals on how to protect themselves.&lt;/li>
+&lt;li>The hackers&amp;rsquo; demands have escalated concerns over how the data might be used if the ransom is not paid, leading to potential privacy risks for those affected.&lt;/li>
+&lt;li>MediaWorks notified the Privacy Commissioner&lt;/li>
+&lt;li>MediaWorks reported the incident to * CERT NZ and the New Zealand Police&lt;/li>
+&lt;li>In line with New Zealand Government guidance, MediaWorks has not engaged with the attacker.&lt;/li>
+&lt;/ul></description></item></channel></rss>

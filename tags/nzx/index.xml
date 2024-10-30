@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NZX on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/tags/nzx/</link><description>Recent content in NZX on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/tags/nzx/index.xml" rel="self" type="application/rss+xml"/><item><title>Major DDoS attack causes NZX outage, trading halt</title><link>https://cramsthaler.github.io/NZCSIRR/p/major-ddos-attack-causes-nzx-outage-trading-halt/</link><pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/major-ddos-attack-causes-nzx-outage-trading-halt/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>New Zealand’s Stock Exchange - NZX &lt;a class="link" href="https://www.nzx.com/" target="_blank" rel="noopener"
+>https://www.nzx.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The DDoS attacks caused multiple outages, leading to the suspension of trading on the NZX for several days. The exchange experienced interruptions on August 25, 26, and 27, and then again on August 28 and 31. This was a significant disruption as it affected market confidence and the ability of investors to trade.&lt;/li>
+&lt;li>The trading halts affected not only NZX but also had ripple effects on the broader financial market in New Zealand. Traders and investors were unable to execute orders, which could have led to financial losses, missed opportunities, and overall market uncertainty.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Major DDoS attack causes NZX outage, trading halt &lt;a class="link" href="https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-outage-trading-halt" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-outage-trading-halt&lt;/a>&lt;/li>
+&lt;li>NZX has fallen victim to one of the oldest and crudest forms of cyber-crime &lt;a class="link" href="https://www.stuff.co.nz/business/122570956/nzx-has-fallen-victim-to-one-of-the-oldest-and-crudest-forms-of-cybercrime" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/business/122570956/nzx-has-fallen-victim-to-one-of-the-oldest-and-crudest-forms-of-cybercrime&lt;/a>&lt;/li>
+&lt;li>NZX - Connectivity Issue &lt;a class="link" href="https://www.nzx.com/announcements/358738" target="_blank" rel="noopener"
+>https://www.nzx.com/announcements/358738&lt;/a>&lt;/li>
+&lt;li>NZX - Independent reports on NZX IT and cybersecurity completed &lt;a class="link" href="https://www.nzx.com/announcements/364459" target="_blank" rel="noopener"
+>https://www.nzx.com/announcements/364459&lt;/a>&lt;/li>
+&lt;li>NZX -Cost impacts from NZX IT and cybersecurity reviews &lt;a class="link" href="https://www.nzx.com/announcements/365385" target="_blank" rel="noopener"
+>https://www.nzx.com/announcements/365385&lt;/a>&lt;/li>
+&lt;li>FMA releases review of NZX technology issues &lt;a class="link" href="https://www.fma.govt.nz/news/all-releases/media-releases/fma-releases-review-of-nzx-technology-issues/" target="_blank" rel="noopener"
+>https://www.fma.govt.nz/news/all-releases/media-releases/fma-releases-review-of-nzx-technology-issues/&lt;/a>&lt;/li>
+&lt;li>FMA - Market Operator Obligations
+Targeted Review – NZX &lt;a class="link" href="https://www.fma.govt.nz/assets/Reports/Market-Operator-Obligations-Targeted-Review-NZX.pdf" target="_blank" rel="noopener"
+>https://www.fma.govt.nz/assets/Reports/Market-Operator-Obligations-Targeted-Review-NZX.pdf&lt;/a>&lt;/li>
+&lt;li>Akamai report: &lt;a class="link" href="" >https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail&lt;/a>&lt;/li>
+&lt;li>Akamai report: &lt;a class="link" href="" >https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail&lt;/a>&lt;/li>
+&lt;li>Akamai report: &lt;a class="link" href="https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail" target="_blank" rel="noopener"
+>https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZX or NCSC have not published more details on the attack, e.g. attacker attribution or volumes of the DDOS attack&lt;/li>
+&lt;li>Akamai reported that NZX was one of many victims worldwide and attributing it to &amp;ldquo;Armada Collective and Fancy Bear&amp;rdquo; who are sending out the ransom letters&lt;/li>
+&lt;li>In addition to the information in our (Akamai) previous advisory, we can confirm that we&amp;rsquo;re now seeing attacks peak at almost 200 Gb/sec, utilizing ARMS, DNS Flood, GRE Protocol Flood, SNMP Flood, SYN Flood, and WSDiscovery Flood attacks as their main vectors.&lt;/li>
+&lt;/ul></description></item></channel></rss>

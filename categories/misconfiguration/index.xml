@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Misconfiguration on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/categories/misconfiguration/</link><description>Recent content in Misconfiguration on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/categories/misconfiguration/index.xml" rel="self" type="application/rss+xml"/><item><title>MediaWorks Data Breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks, a prominent New Zealand-based broadcasting company&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks notified around 403,000 individuals that information they supplied as part of a competition entry had been involved in a cyber attack. The affected database included entries for online competitions dating back to 2016.&lt;/li>
+&lt;li>The types of information held in this database and accessed by the attacker include name, date of birth, gender, postal address and/or post code, email address, phone number, and in some cases images or videos that may have been submitted as part of the entry.&lt;/li>
+&lt;li>Importantly, the affected database did not contain passwords, identity documents, financial information, bank accounts or credit card details.&lt;/li>
+&lt;li>Hackers have begun contacting victims directly via email, demanding NZD $820 to prevent their data from being leaked.&lt;/li>
+&lt;li>Widespread concern among victims and significant reputational damage for MediaWorks.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mediaworks page on webarchive &lt;a class="link" href="https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html" target="_blank" rel="noopener"
+>https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In March 2024, MediaWorks experienced a significant data breach, allegedly carried out by cybercriminals who gained access to the company’s systems and exfiltrated personal data of New Zealanders.&lt;/li>
+&lt;li>The hackers have contacted individuals affected by the breach, demanding ransom payments in exchange for not leaking their personal information.&lt;/li>
+&lt;li>Law enforcement agencies are involved in investigating the attack, and MediaWorks has issued guidance to individuals on how to protect themselves.&lt;/li>
+&lt;li>The hackers&amp;rsquo; demands have escalated concerns over how the data might be used if the ransom is not paid, leading to potential privacy risks for those affected.&lt;/li>
+&lt;li>MediaWorks notified the Privacy Commissioner&lt;/li>
+&lt;li>MediaWorks reported the incident to * CERT NZ and the New Zealand Police&lt;/li>
+&lt;li>In line with New Zealand Government guidance, MediaWorks has not engaged with the attacker.&lt;/li>
+&lt;/ul></description></item><item><title>NZ Treasury - Unauthorised access to Budget information</title><link>https://cramsthaler.github.io/NZCSIRR/p/nz-treasury-unauthorised-access-to-budget-information/</link><pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/nz-treasury-unauthorised-access-to-budget-information/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZ Treasury&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Embargoed Government Budget data leaked&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Treasury News page: &lt;a class="link" href="https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information" target="_blank" rel="noopener"
+>https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information&lt;/a> - &lt;a class="link" href="TheTreasuryNewZealand.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;li>Secondary source:&lt;a class="link" href="https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked" target="_blank" rel="noopener"
+>https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked&lt;/a> - &lt;a class="link" href="TheDailySwig.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>An unknown person exploited a feature in the Treasury&amp;rsquo;s website search tool, but this was not deemed unlawful by the Police, so no further action is planned.&lt;/li>
+&lt;li>The Treasury and National Cyber Security Centre are investigating the incident, revealing that a clone of the Treasury website, intended for Budget 2019, contained indexed content that was accessible via specific search terms.&lt;/li>
+&lt;li>Approximately 2,000 search terms were used to extract small amounts of information from the 2019/20 Estimates documents, using phrases from the 2018 Budget followed by “Summary” of each Vote.&lt;/li>
+&lt;li>The searches were systematic and persistent, involving three IP addresses belonging to the Parliamentary Service, 2degrees, and Vocus.&lt;/li>
+&lt;li>The incident led to unauthorized access to limited content from the 2019/20 Estimates documents, intended to be confidential until Budget Day.&lt;/li>
+&lt;li>Treasury Secretary Gabriel Makhlouf acknowledged the breach and announced a review to enhance security and prevent future incidents, with the State Services Commissioner asked to conduct an inquiry.&lt;/li>
+&lt;/ul></description></item></channel></rss>

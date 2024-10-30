@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mercury IT on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/tags/mercury-it/</link><description>Recent content in Mercury IT on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/tags/mercury-it/index.xml" rel="self" type="application/rss+xml"/><item><title>Mercury IT (Managed Service Provider - MSP) Ransomware attack</title><link>https://cramsthaler.github.io/NZCSIRR/p/mercury-it-managed-service-provider-msp-ransomware-attack/</link><pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mercury-it-managed-service-provider-msp-ransomware-attack/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mercury IT and it&amp;rsquo;s customers, e.g. NZ governament agencies (Ministry of Justice; Te Whatu Ora)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ministry of Justice said that the attack was preventing it from accessing 14,500 files relating to the transportation of deceased people’s bodies, and roughly 4,000 post-mortem examinations dating from March 2020 to November.&lt;/li>
+&lt;li>Te Whatu Ora, the country’s health ministry, said its access to data relating to bereavement and cardiac services was impacted. It said roughly 8,500 records about bereavement care services were inaccessible, alongside 5,500 records from the cardiac and inherited disease registry.
+“While the above records are currently inaccessible, there is no evidence at this stage that they have been subject to unauthorized access or download,” said the ministry.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Response to managed service provider cyber security incident &lt;a class="link" href="https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F" target="_blank" rel="noopener"
+>https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F&lt;/a>&lt;/li>
+&lt;li>Privacy Commissioner considers action on ransomware attack &lt;a class="link" href="https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/" target="_blank" rel="noopener"
+>https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/&lt;/a>&lt;/li>
+&lt;li>MoJ Statement - Cyber security incident &lt;a class="link" href="https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/" target="_blank" rel="noopener"
+>https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/&lt;/a>&lt;/li>
+&lt;li>Multiple government departments in New Zealand affected by ransomware attack on IT provider &lt;a class="link" href="https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider" target="_blank" rel="noopener"
+>https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider&lt;/a>&lt;/li>
+&lt;li>Investigation underway into cyber attack which hit thousands of coronial and health files &lt;a class="link" href="https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>An information technology managed service provider who provides services to support a range of organisations, including several government agencies, has experienced a cyber incident that has compromised access to its data and systems.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The provider has engaged external cyber security response support and reported the incident to agencies including the National Cyber Security Centre (NCSC), New Zealand Police, CERT NZ, and the Privacy Commissioner.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

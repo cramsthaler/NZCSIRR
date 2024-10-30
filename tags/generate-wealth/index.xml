@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Generate Wealth on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/tags/generate-wealth/</link><description>Recent content in Generate Wealth on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/tags/generate-wealth/index.xml" rel="self" type="application/rss+xml"/><item><title>Generate data breach impacts 26,000 New Zealand residents</title><link>https://cramsthaler.github.io/NZCSIRR/p/generate-data-breach-impacts-26000-new-zealand-residents/</link><pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/generate-data-breach-impacts-26000-new-zealand-residents/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Generate &lt;a class="link" href="https://www.generatewealth.co.nz/" target="_blank" rel="noopener"
+>https://www.generatewealth.co.nz/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Approximately 26,000 of the 90,000 clients that have joined Generate over the last 7 years have had personal information accessed illegitimately. (Investment data is held in a completely separate system and was not affected.)&lt;/li>
+&lt;li>Victims were offered to replace their ID&amp;rsquo;s (e.g NZ passport or drivers license)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The original post from the Generate website has been de-published (approx 2023). Here is the site on web archive org: &lt;a class="link" href="https://web.archive.org/web/20201124224506/https://www.generatewealth.co.nz/data-security-incident" target="_blank" rel="noopener"
+>https://web.archive.org/web/20201124224506/https://www.generatewealth.co.nz/data-security-incident&lt;/a> - &lt;a class="link" href="WebArchiveOrg.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;li>The Daily Swig: &lt;a class="link" href="https://portswigger.net/daily-swig/generate-data-breach-impacts-26-000-new-zealand-residents" target="_blank" rel="noopener"
+>https://portswigger.net/daily-swig/generate-data-breach-impacts-26-000-new-zealand-residents&lt;/a> - &lt;a class="link" href="TheDailySwig.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>An unidentified third party gained unauthorised access to Generate website’s online application system between 29 December 2019 and 27 January 2020 and was able to capture the personal information of some of members.&lt;/li>
+&lt;li>Generate had notified the Privacy Commissioner, the Financial Markets Authority, Inland Revenue and reported the incident to the New Zealand Police.&lt;/li>
+&lt;li>Approximately 26,000 of the 90,000 clients that have joined Generate over the last 7 years have had personal information accessed illegitimately.&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/</link><description>Recent content on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to NZCSIRR!</title><link>https://cramsthaler.github.io/NZCSIRR/p/hello-world/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/hello-world/</guid><description>&lt;img src="https://cramsthaler.github.io/NZCSIRR/p/hello-world/NZCSIRR_large.PNG" alt="Featured image of post Welcome to NZCSIRR!" />&lt;p>&lt;strong>Objective:&lt;/strong>
+This page serves as a repository of publicly documented cybersecurity incidents specific to New Zealand. It includes only incidents with publicly available references.
+Whether you&amp;rsquo;re just starting out in the industry and missed these events, or you&amp;rsquo;re a seasoned GRC consultant needing to refresh your memory on past incidents, this page offers a convenient resource for quick access to relevant information.&lt;/p>
+&lt;p>&lt;strong>Motivation:&lt;/strong>
+How many times during risk assessments have cybersecurity skeptics claimed, &amp;ldquo;This risk will never impact my business, my industry, or New Zealand&amp;rdquo;? Or perhaps they’ve questioned your impact estimates? While examples are often used to justify risk ratings, many of the most relevant cases are from overseas or large corporations. Unfortunately, much of the detailed incident information is shared privately, in infomration exchanges or in trust groups, limiting its use in public decision-making. This repository offers links to New Zealand-specific incidents and statistics, enabling you to make more informed risk assessments and educate decision-makers within your organization.&lt;/p>
+&lt;p>&lt;strong>Criteria:&lt;/strong>
+to be added here, the incident has to:&lt;/p>
+&lt;ul>
+&lt;li>be publicaly disclosed and have a citable reference (e.g. news article or media release etc)&lt;/li>
+&lt;li>have a connection to New Zealand, e.g. the impacted agancy is in NZ or it has an impact on NZ society etc.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Post format:&lt;/strong>
+Each incident post has categaories and tags assigned for easy searching and grouping. All posts are structured in the same format:&lt;/p>
+&lt;ul>
+&lt;li>Name of the impacted agency&lt;/li>
+&lt;li>Impact of the incident&lt;/li>
+&lt;li>References &amp;gt; links to the publically available resources&lt;/li>
+&lt;li>Short summary of the incident&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Feedback &amp;amp; Additions:&lt;/strong>
+If you would like to see other incidents added here, please send me the link to the publications or any other feedaback via DM in &lt;a class="link" href="https://www.linkedin.com/in/chrisramsthaler/" target="_blank" rel="noopener"
+>LinkedIn&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Versioning:&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Version&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;th>Comment&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1.01&lt;/td>
+&lt;td>29/10/2024&lt;/td>
+&lt;td>added 3 more incidents&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1.0&lt;/td>
+&lt;td>11/10/2024&lt;/td>
+&lt;td>Initial Publication: 11 NZ incidents from 2019-2024 &amp;amp; 1 report&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Lantech cyber security incident</title><link>https://cramsthaler.github.io/NZCSIRR/p/lantech-cyber-security-incident/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/lantech-cyber-security-incident/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>)&lt;/p>
+&lt;ul>
+&lt;li>Lantech - Auckland IT provider (now &lt;a class="link" href="https://cogent.co.nz/" target="_blank" rel="noopener"
+>https://cogent.co.nz/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Lantech chief executive Ray Noonan told the Herald, “On May 29, Lantech experienced a cyber security incident impacting its vOffice platform with a limited number of customers impacted.&lt;/li>
+&lt;li>“As soon as Lantech became aware of this issue we engaged external specialist support, our investigations are in the early stages, and we have informed and are working with the relevant government agencies.&lt;/li>
+&lt;li>“We have communicated directly with the customers impacted by this event and are in contact with the office of the Privacy Commissioner.”&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZ Herald: Fenz IT supplier hit by cyberattack, emergency services operational &lt;a class="link" href="https://www.nzherald.co.nz/business/fenz-it-supplier-hit-by-cyberattack-emergency-services-not-affected/GCQM3YBKCBCZJCB5ADRLBAP2M4/" target="_blank" rel="noopener"
+>https://www.nzherald.co.nz/business/fenz-it-supplier-hit-by-cyberattack-emergency-services-not-affected/GCQM3YBKCBCZJCB5ADRLBAP2M4/&lt;/a> or &lt;a class="link" href="https://archive.ph/SPLQn" target="_blank" rel="noopener"
+>https://archive.ph/SPLQn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Following an anonymous tip-off to the Herald, Auckland-based IT services firm Lantech has confirmed it’s been hit by a cyberattack.&lt;/li>
+&lt;li>Fire and Emergency New Zealand (Fenz) features as a customer case study on Lantech’s website.
+Neither party would comment on the cyberattack, with Lantech refusing to comment on individual customers and Fenz referring questions to the IT services company.&lt;/li>
+&lt;/ul></description></item><item><title>NZTA- Transport Agency privacy breach: 1500 motorists' information illegally accessed</title><link>https://cramsthaler.github.io/NZCSIRR/p/nzta-transport-agency-privacy-breach-1500-motorists-information-illegally-accessed/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/nzta-transport-agency-privacy-breach-1500-motorists-information-illegally-accessed/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZTA - New Zealand Transport Agency&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>1,480 individuals had their personal information held on the Driver Licence Register (DLR) or Motor Vehicle Register (MVR) has been illegally accessed.&lt;/li>
+&lt;li>The information accessed includes customers’ full name and address, or the status, conditions and endorsements on their driver licences.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>RNZ - Transport Agency privacy breach: 1500 motorists&amp;rsquo; information illegally accessed &lt;a class="link" href="https://www.rnz.co.nz/news/national/517635/transport-agency-privacy-breach-1500-motorists-information-illegally-accessed" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/517635/transport-agency-privacy-breach-1500-motorists-information-illegally-accessed&lt;/a>&lt;/li>
+&lt;li>NZTA investigating privacy breach following illegal access of information held on driver licence and motor vehicle registers [https://www.nzta.govt.nz/media-releases/nzta-investigating-privacy-breach-following-illegal-access-of-information-held-on-driver-licence-and-motor-vehicle-registers/]&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>A motor vehicle trader with authorised access to the DLR and the MVR had their account compromised. NZTA also notified the New Zealand Police and the Office of the Privacy Commissioner.&lt;/li>
+&lt;li>The illegally accessed information was gained through MotorWeb, a third-party on-line portal, after the identity of a motor vehicle trader and its staff was used to create a fraudulent account to access information held on the MVR and DLR.&lt;/li>
+&lt;/ul></description></item><item><title>NZTA- NZTA employee traded driver database details for drugs</title><link>https://cramsthaler.github.io/NZCSIRR/p/nzta-nzta-employee-traded-driver-database-details-for-drugs/</link><pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/nzta-nzta-employee-traded-driver-database-details-for-drugs/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZTA - New Zealand Transport Agency&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The registers contain information about motorists and their vehicles, such as their contact details and addresses.&lt;/li>
+&lt;li>It is unclear precisely how many times she accessed the databases nor how many people&amp;rsquo;s personal information she passed on.&lt;/li>
+&lt;li>Information about vehicles and drivers was used to assult victims&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The Post - ‘Significant breach’: NZTA employee passed on personal details for drugs &lt;a class="link" href="https://www.thepost.co.nz/nz-news/350254651/significant-breach-nzta-employee-passed-personal-details-drugs" target="_blank" rel="noopener"
+>https://www.thepost.co.nz/nz-news/350254651/significant-breach-nzta-employee-passed-personal-details-drugs&lt;/a>&lt;/li>
+&lt;li>Stuff - NZTA employee traded driver database details for drugs &lt;a class="link" href="https://www.stuff.co.nz/nz-news/350354782/nzta-employee-traded-driver-database-details-drugs" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/nz-news/350354782/nzta-employee-traded-driver-database-details-drugs&lt;/a>&lt;/li>
+&lt;li>RNZ - NZTA employee traded motorists&amp;rsquo; private information to gang members for meth [https://www.rnz.co.nz/news/national/523154/nzta-employee-traded-motorists-private-information-to-gang-members-for-meth] (&lt;a class="link" href="https://www.rnz.co.nz/news/national/523154/nzta-employee-traded-motorists-private-information-to-gang-members-for-meth" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/523154/nzta-employee-traded-motorists-private-information-to-gang-members-for-meth&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Insider had worked for NZTA for roughly eight years before she began dating a member of the King Cobras.&lt;/li>
+&lt;li>From mid-2021 through to March 2023, she accessed the motor vehicle register and driver licensing register, which is a secure database housed at NZTA and requires employees to sign a code of conduct before they are allowed to use it.&lt;/li>
+&lt;li>She would look up drivers or vehicles in the databases and pass the information to her then partner and other members of the gang. She was given meth as payment.&lt;/li>
+&lt;li>She came up with a set of rules for herself about when she would access the information as well as a cover story that she was simply making sure a vehicle she wanted to buy had a clean record.&lt;/li>
+&lt;/ul></description></item><item><title>MediaWorks Data Breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks, a prominent New Zealand-based broadcasting company&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks notified around 403,000 individuals that information they supplied as part of a competition entry had been involved in a cyber attack. The affected database included entries for online competitions dating back to 2016.&lt;/li>
+&lt;li>The types of information held in this database and accessed by the attacker include name, date of birth, gender, postal address and/or post code, email address, phone number, and in some cases images or videos that may have been submitted as part of the entry.&lt;/li>
+&lt;li>Importantly, the affected database did not contain passwords, identity documents, financial information, bank accounts or credit card details.&lt;/li>
+&lt;li>Hackers have begun contacting victims directly via email, demanding NZD $820 to prevent their data from being leaked.&lt;/li>
+&lt;li>Widespread concern among victims and significant reputational damage for MediaWorks.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mediaworks page on webarchive &lt;a class="link" href="https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html" target="_blank" rel="noopener"
+>https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In March 2024, MediaWorks experienced a significant data breach, allegedly carried out by cybercriminals who gained access to the company’s systems and exfiltrated personal data of New Zealanders.&lt;/li>
+&lt;li>The hackers have contacted individuals affected by the breach, demanding ransom payments in exchange for not leaking their personal information.&lt;/li>
+&lt;li>Law enforcement agencies are involved in investigating the attack, and MediaWorks has issued guidance to individuals on how to protect themselves.&lt;/li>
+&lt;li>The hackers&amp;rsquo; demands have escalated concerns over how the data might be used if the ransom is not paid, leading to potential privacy risks for those affected.&lt;/li>
+&lt;li>MediaWorks notified the Privacy Commissioner&lt;/li>
+&lt;li>MediaWorks reported the incident to * CERT NZ and the New Zealand Police&lt;/li>
+&lt;li>In line with New Zealand Government guidance, MediaWorks has not engaged with the attacker.&lt;/li>
+&lt;/ul></description></item><item><title>NCSC Cyber Threat Report 2022 2023</title><link>https://cramsthaler.github.io/NZCSIRR/p/ncsc-cyber-threat-report-2022-2023/</link><pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/ncsc-cyber-threat-report-2022-2023/</guid><description>&lt;p>&lt;strong>Creator:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NCSC - National Cyber Security Centre&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Media release: [https://www.ncsc.govt.nz/news/record-high-financially-motivated-cyber-activity] (&lt;a class="link" href="https://www.ncsc.govt.nz/news/record-high-financially-motivated-cyber-activity" target="_blank" rel="noopener"
+>https://www.ncsc.govt.nz/news/record-high-financially-motivated-cyber-activity&lt;/a>)&lt;/li>
+&lt;li>2022/23 Threat report PDF: &lt;a class="link" href="https://www.ncsc.govt.nz/assets/NCSC-Documents/NCSC-2022.2023-Cyber-Threat-Report.pdf" target="_blank" rel="noopener"
+>https://www.ncsc.govt.nz/assets/NCSC-Documents/NCSC-2022.2023-Cyber-Threat-Report.pdf&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>316 incidents affecting nationally significant organisations (COMPARED TO 350 INCIDENTS RECORDED IN 2021/2022)&lt;/li>
+&lt;li>73 of those, or 23%, indicated links to suspected state-sponsored actors (COMPARED TO 34% IN 2021/2022)&lt;/li>
+&lt;li>Since June 2016, the NCSC has revented an estimated $382.4 million worth of harm to Aotearoa New Zealand’s nationally significant organisations. $65.4 million worth of harm prevented in 2022/2023&lt;/li>
+&lt;li>90 incidents, or 28%, were likely criminal or financially motivated (COMPARED TO 23% IN 2021/2022)&lt;/li>
+&lt;li>In 2022/2023, the NCSC disrupted over 250,000 malicious cyber events as part of Malware Free Networks.®&lt;/li>
+&lt;/ul></description></item><item><title>Auckland University Cyberattack: Significant Breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/auckland-university-cyberattack-significant-breach/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/auckland-university-cyberattack-significant-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Auckland University of Technology (AUT)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Personal information of students, faculty, and staff potentially compromised.&lt;/li>
+&lt;li>Hackers have threatened to release sensitive university data unless a ransom is paid.&lt;/li>
+&lt;li>AUT’s network and systems experienced disruption as a result of the cyberattack.&lt;/li>
+&lt;li>60GB of Data exfiltrated includes confidential student records, research data, and internal university documents.&lt;/li>
+&lt;li>The university has reported the breach to the New Zealand privacy commissioner and is working to minimize harm.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The Record &lt;a class="link" href="https://therecord.media/auckland-university-operating-cyberattack" target="_blank" rel="noopener"
+>https://therecord.media/auckland-university-operating-cyberattack&lt;/a>&lt;/li>
+&lt;li>Stuff &lt;a class="link" href="https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In September 2023, AUT became the target of a ransomware attack.&lt;/li>
+&lt;li>Hackers claimed they had stolen a significant amount of sensitive data and threatened to release it publicly if a ransom was not paid.&lt;/li>
+&lt;li>The breach affected AUT’s internal systems, causing service disruptions and forcing the university to assess and secure its network infrastructure.&lt;/li>
+&lt;li>AUT engaged with cybersecurity experts and law enforcement agencies to investigate the extent of the breach.&lt;/li>
+&lt;li>The university has been transparent with stakeholders about the attack and has advised affected individuals to take precautionary steps to safeguard their information.&lt;/li>
+&lt;li>The hackers have given a deadline for ransom payment, raising fears of data being leaked if demands are not met.&lt;/li>
+&lt;/ul></description></item><item><title>Latitude cyber attack</title><link>https://cramsthaler.github.io/NZCSIRR/p/latitude-cyber-attack/</link><pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/latitude-cyber-attack/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Latitude (although this is an Australian company it had an impact on many New Zealanders)&lt;/li>
+&lt;li>Latitude Financial Services Limited NZ provides a wide range of financial and (limited) insurance services to customers across New Zealand via Gem Finance and Gem Visa and several subsidiary groups.&lt;/li>
+&lt;li>Latitude Financial Services Limited NZ is a subsidiary of Latitude Holdings based in Australia.&lt;/li>
+&lt;li>Latitude Financial have estimated that 14 million NZ and Australian customer records have been exposed because of the 12 March attack of which around 1.08 million are NZ customer records.&lt;/li>
+&lt;li>The 1.08 million NZ customer records includes around 1.037 million driver license records, around 40,000 passport records and sensitive income and expense information. The income and expenditure information was submitted as part of a personal loan application process.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Customers and applicants in Australia and New Zealand who had one or more of the following compromised:&lt;/li>
+&lt;li>Approximately 7.9 million driver licence numbers and some but not necessarily all of: name, address, telephone and date of birth&lt;/li>
+&lt;li>Approximately 103,000 copies of driver licences or passports&lt;/li>
+&lt;li>Approximately 53,000 passport numbers&lt;/li>
+&lt;li>Less than 100 monthly account statements&lt;/li>
+&lt;li>Income and expense information used to assess approximately 900,000 loan applications, including approximately 308,000 bank account numbers (but not passwords) for the disbursement of funds and approximately 143,000 credit card or credit card account numbers (but not card expiry or 3-digit CVC) for debt consolidation, the overwhelming majority of which are expired or closed.&lt;/li>
+&lt;li>Where needed Latitude reimbursed customers for the replacement cost of their stolen ID document.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Latitude &amp;ldquo;Statement of Notification&amp;rdquo; &lt;a class="link" href="https://www.latitudefinancial.com.au/cyber-statement-of-notification" target="_blank" rel="noopener"
+>https://www.latitudefinancial.com.au/cyber-statement-of-notification&lt;/a>&lt;/li>
+&lt;li>Latitude Cyber Response &lt;a class="link" href="https://www.latitudefinancial.com.au/latitude-cyber-incident/" target="_blank" rel="noopener"
+>https://www.latitudefinancial.com.au/latitude-cyber-incident/&lt;/a>&lt;/li>
+&lt;li>NZ Privacy Commissioner: &amp;ldquo;New Zealand-Australia investigation into Latitude breach begins&amp;rdquo; &lt;a class="link" href="https://www.privacy.org.nz/publications/statements-media-releases/new-zealand-australia-investigation-into-latitude-breach-begins/" target="_blank" rel="noopener"
+>https://www.privacy.org.nz/publications/statements-media-releases/new-zealand-australia-investigation-into-latitude-breach-begins/&lt;/a>&lt;/li>
+&lt;li>GemFinance: &amp;ldquo;Latitude Cyber Incident Update&amp;rdquo; (original de-published, link to archive.org) &lt;a class="link" href="https://web.archive.org/web/20240508040501/https://gemfinance.zendesk.com/hc/en-nz/articles/13777730237713-Latitude-Cyber-Incident-Update" target="_blank" rel="noopener"
+>https://web.archive.org/web/20240508040501/https://gemfinance.zendesk.com/hc/en-nz/articles/13777730237713-Latitude-Cyber-Incident-Update&lt;/a>&lt;/li>
+&lt;li>NZTA on replacement of NZ driver license: &lt;a class="link" href="https://www.nzta.govt.nz/driver-licences/latitude-financial-services-data-incident/" target="_blank" rel="noopener"
+>https://www.nzta.govt.nz/driver-licences/latitude-financial-services-data-incident/&lt;/a>&lt;/li>
+&lt;li>RNZ Three months after Latitude cyberattack, some victims still not notified &lt;a class="link" href="https://www.rnz.co.nz/news/national/492222/three-months-after-latitude-cyberattack-some-victims-still-not-notified" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/492222/three-months-after-latitude-cyberattack-some-victims-still-not-notified&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>On 16 March 2023, Latitude1 announced that it had experienced a malicious cyber-attack over the prior few days that resulted in a data theft.&lt;/li>
+&lt;li>Our investigation identified that the cybercriminals used a compromised credential, obtained via a third-party, to access Latitude&amp;rsquo;s network and steal personal information.&lt;/li>
+&lt;li>We immediately alerted relevant authorities and law enforcement agencies, including the Australian Cyber Security Centre (ACSC) and the Australian Federal Police (AFP), and engaged external cyber security specialists to work alongside our own teams.&lt;/li>
+&lt;li>This crime remains under investigation by the AFP. We also notified the Office of the Australian Information Commissioner (OAIC) and the New Zealand Office of the Privacy Commissioner (OPC) about the incident on 16 March 2023, and we continue to work with them.&lt;/li>
+&lt;/ul></description></item><item><title>Mercury IT (Managed Service Provider - MSP) Ransomware attack</title><link>https://cramsthaler.github.io/NZCSIRR/p/mercury-it-managed-service-provider-msp-ransomware-attack/</link><pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mercury-it-managed-service-provider-msp-ransomware-attack/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mercury IT and it&amp;rsquo;s customers, e.g. NZ governament agencies (Ministry of Justice; Te Whatu Ora)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ministry of Justice said that the attack was preventing it from accessing 14,500 files relating to the transportation of deceased people’s bodies, and roughly 4,000 post-mortem examinations dating from March 2020 to November.&lt;/li>
+&lt;li>Te Whatu Ora, the country’s health ministry, said its access to data relating to bereavement and cardiac services was impacted. It said roughly 8,500 records about bereavement care services were inaccessible, alongside 5,500 records from the cardiac and inherited disease registry.
+“While the above records are currently inaccessible, there is no evidence at this stage that they have been subject to unauthorized access or download,” said the ministry.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Response to managed service provider cyber security incident &lt;a class="link" href="https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F" target="_blank" rel="noopener"
+>https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F&lt;/a>&lt;/li>
+&lt;li>Privacy Commissioner considers action on ransomware attack &lt;a class="link" href="https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/" target="_blank" rel="noopener"
+>https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/&lt;/a>&lt;/li>
+&lt;li>MoJ Statement - Cyber security incident &lt;a class="link" href="https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/" target="_blank" rel="noopener"
+>https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/&lt;/a>&lt;/li>
+&lt;li>Multiple government departments in New Zealand affected by ransomware attack on IT provider &lt;a class="link" href="https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider" target="_blank" rel="noopener"
+>https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider&lt;/a>&lt;/li>
+&lt;li>Investigation underway into cyber attack which hit thousands of coronial and health files &lt;a class="link" href="https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>An information technology managed service provider who provides services to support a range of organisations, including several government agencies, has experienced a cyber incident that has compromised access to its data and systems.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The provider has engaged external cyber security response support and reported the incident to agencies including the National Cyber Security Centre (NCSC), New Zealand Police, CERT NZ, and the Privacy Commissioner.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Archives</title><link>https://cramsthaler.github.io/NZCSIRR/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/archives/</guid><description/></item><item><title>Parliament network breached in China-led cyberattack</title><link>https://cramsthaler.github.io/NZCSIRR/p/parliament-network-breached-in-china-led-cyberattack/</link><pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/parliament-network-breached-in-china-led-cyberattack/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>New Zealand&amp;rsquo;s Parliamentary Service and Parliamentary Counsel Office&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Specific Impact was not disclosed&lt;/li>
+&lt;li>Fortunately, in this instance, the NCSC worked with the impacted organisations to contain the activity and remove the actor shortly after they were able to access the network.&lt;/li>
+&lt;li>Some information was removed from the networks, but the GCSB believed it was of a technical nature and information of a sensitive or strategic nature was not taken&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>RNZ Parliament network breached in China-led cyberattack, Judith Collins reveals &lt;a class="link" href="https://www.rnz.co.nz/news/political/512682/parliament-network-breached-in-china-led-cyberattack-judith-collins-reveals" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/political/512682/parliament-network-breached-in-china-led-cyberattack-judith-collins-reveals&lt;/a>&lt;/li>
+&lt;li>Beehive &lt;a class="link" href="https://www.beehive.govt.nz/release/parliamentary-network-breached-prc" target="_blank" rel="noopener"
+>https://www.beehive.govt.nz/release/parliamentary-network-breached-prc&lt;/a>&lt;/li>
+&lt;li>NCSC &lt;a class="link" href="https://www.gcsb.govt.nz/news/ncscs-response-to-the-pco-and-parliamentary-service-cyber-incident" target="_blank" rel="noopener"
+>https://www.gcsb.govt.nz/news/ncscs-response-to-the-pco-and-parliamentary-service-cyber-incident&lt;/a>&lt;/li>
+&lt;li>RNZ Government points finger at China over cyber attacks &lt;a class="link" href="https://www.rnz.co.nz/news/political/447239/government-points-finger-at-china-over-cyber-attacks" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/political/447239/government-points-finger-at-china-over-cyber-attacks&lt;/a>&lt;/li>
+&lt;li>Beehive &lt;a class="link" href="https://www.beehive.govt.nz/release/new-zealand-condemns-malicious-cyber-activity-chinese-state-sponsored-actors" target="_blank" rel="noopener"
+>https://www.beehive.govt.nz/release/new-zealand-condemns-malicious-cyber-activity-chinese-state-sponsored-actors&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The spy agencies&amp;rsquo; minister Judith Collins revealed in a statement on 26/03/2024 New Zealand&amp;rsquo;s Parliamentary Service and Parliamentary Counsel Office had been targeted in a China-linked 2021 cyberattack.&lt;/li>
+&lt;li>The Parliamentary Service provides administrative and support services to Parliament and its MPs, while the Parliamentary Counsel Office (PCO) is responsible for drafting and publishing legislation.&lt;/li>
+&lt;li>&amp;ldquo;The GCSB&amp;rsquo;s National Cyber Security Centre (NCSC) completed a robust technical assessment following a compromise of the Parliamentary Counsel Office and the Parliamentary Service in 2021, and has attributed this activity to a PRC state-sponsored group known as APT40,&amp;rdquo; Collins said&lt;/li>
+&lt;li>&amp;ldquo;Fortunately, in this instance, the NCSC worked with the impacted organisations to contain the activity and remove the actor shortly after they were able to access the network.&amp;rdquo;&lt;/li>
+&lt;/ul></description></item><item><title>Waikato District Health Board ransomware incident</title><link>https://cramsthaler.github.io/NZCSIRR/p/waikato-district-health-board-ransomware-incident/</link><pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/waikato-district-health-board-ransomware-incident/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Waikato District Health Board&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Clinical services across all Waikato public hospitals have been seriously affected by a cyber security incident with all phones and computers down.&lt;/li>
+&lt;li>Clinical services at Waikato, Thames, Tokoroa, Te Kuiti and Taumaranui hospitals are all affected to varying degrees.&lt;/li>
+&lt;li>surgeries were postponed, and seriously ill patients had to be transferred to
+other hospitals within other DHBs .&lt;/li>
+&lt;li>Corporate and patient information was also posted on the internet and then reported in mainstream media.&lt;/li>
+&lt;li>It took several months for WDHB to restore the systems compromised by the attacker and address the backlog of surgeries and appointments that resulted from the attack. The incident was officially closed out on the 10 h of November 2021 – the majority of systems had been recovered and were operating securely by this date.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Waikato hospitals hit by cyber security incident &lt;a class="link" href="https://www.rnz.co.nz/news/national/442795/waikato-hospitals-hit-by-cyber-security-incident" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/442795/waikato-hospitals-hit-by-cyber-security-incident&lt;/a>&lt;/li>
+&lt;li>WAIKATO DISTRICT HEALTH BOARD (WDHB) INCIDENT RESPONSE
+ANALYSIS &lt;a class="link" href="https://www.tewhatuora.govt.nz/assets/Publications/Proactive-releases/WDHB-Final-Report-2.0-redacted.pdf" target="_blank" rel="noopener"
+>https://www.tewhatuora.govt.nz/assets/Publications/Proactive-releases/WDHB-Final-Report-2.0-redacted.pdf&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The Ministry of Health (MOH) said the &amp;ldquo;attempted cyber incident&amp;rdquo; occurred overnight and all the internal systems, except for email, were temporarily shut down.&lt;/li>
+&lt;li>On the 18th of May 2021, the WDHB became the victim of a large-scale criminal
+ransomware attack.&lt;/li>
+&lt;li>WDHB’s initial response was to physically disconnect from the Internet and other health systems all its own services, including corporate IT systems,laptops, printers, phones, medical devices, and any cloud services to protect from any
+further potential compromise by the attacker.&lt;/li>
+&lt;li>This affected healthcare services across the region, including Waikato Hospital, Thames Hospital, Te Kuiti Hospital, Tokoroa Hospital, and Taumarunui Hospital. It also affected other DHBs, primary and community providers who used shared services, including shared clinical services.&lt;/li>
+&lt;li>Cloud services such as MS Teams, email, and the IT service management system remained available, and came to be accessed by clinical staff using ‘new’ machines.&lt;/li>
+&lt;/ul></description></item><item><title>RBNZ - Accellion File Transfer Application (FTA) data breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/rbnz-accellion-file-transfer-application-fta-data-breach/</link><pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/rbnz-accellion-file-transfer-application-fta-data-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>RBNZ - Reserve Bank of New Zealand&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>A file-sharing application, known as Accellion, had been compromised, potentially exposing personal and commercially sensitive information.&lt;/li>
+&lt;li>We estimate the final cost of the breach response, including internal resources, will be around $3.5 million. This excludes any process improvement initiatives we are likely to take as a result of the lessons learnt. All costs associated with the breach were covered under our baseline budgets. The main details of the costs include:
+&lt;ul>
+&lt;li>17,500 hours of internal resources redirected to help with the response&lt;/li>
+&lt;li>$1,800,000 spent on specialist external resources, these being individuals to supplement our staff on the stream activity or organisations delivering a defined piece of work.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Reserve Bank responding to illegal breach of data system &lt;a class="link" href="https://www.rbnz.govt.nz/hub/news/2021/01/reserve-bank-responding-to-illegal-breach-of-data-system" target="_blank" rel="noopener"
+>https://www.rbnz.govt.nz/hub/news/2021/01/reserve-bank-responding-to-illegal-breach-of-data-system&lt;/a>&lt;/li>
+&lt;li>RBNZ - Our response to the data breach &lt;a class="link" href="https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach" target="_blank" rel="noopener"
+>https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach&lt;/a>&lt;/li>
+&lt;li>KPMG report &lt;a class="link" href="https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/data-breach/kpmg-incident-assessment.pdf" target="_blank" rel="noopener"
+>https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/data-breach/kpmg-incident-assessment.pdf&lt;/a>&lt;/li>
+&lt;li>Privacy Commissioner: Compliance Notice issued to Reserve Bank of New Zealand following cyber attack &lt;a class="link" href="https://www.privacy.org.nz/publications/statements-media-releases/compliance-notice-issued-to-reserve-bank-of-new-zealand-following-cyber-attack/" target="_blank" rel="noopener"
+>https://www.privacy.org.nz/publications/statements-media-releases/compliance-notice-issued-to-reserve-bank-of-new-zealand-following-cyber-attack/&lt;/a>&lt;/li>
+&lt;li>RBNZ governor &amp;lsquo;apologises unreservedly&amp;rsquo; for data breach &lt;a class="link" href="https://www.rnz.co.nz/news/business/434593/rbnz-governor-apologises-unreservedly-for-data-breach" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/business/434593/rbnz-governor-apologises-unreservedly-for-data-breach&lt;/a>&lt;/li>
+&lt;li>Reserve Bank of New Zealand says it wasn&amp;rsquo;t directly targeted in cyber attack &lt;a class="link" href="https://www.rnz.co.nz/news/business/434359/reserve-bank-of-new-zealand-says-it-wasn-t-directly-targeted-in-cyber-attack" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/business/434359/reserve-bank-of-new-zealand-says-it-wasn-t-directly-targeted-in-cyber-attack&lt;/a>&lt;/li>
+&lt;li>Accellion&amp;rsquo;s failure to warn RBNZ of exploited bug led to hack &lt;a class="link" href="https://www.itnews.com.au/news/accellions-failure-to-warn-rbnz-of-exploited-bug-led-to-hack-565323" target="_blank" rel="noopener"
+>https://www.itnews.com.au/news/accellions-failure-to-warn-rbnz-of-exploited-bug-led-to-hack-565323&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The hack took place on Christmas Day 2020, and the RBNZ went public about the data breach on January 11, noting it included commercially and personally sensitive information.&lt;/li>
+&lt;li>&amp;ldquo;We have been advised by the third party provider that this wasn&amp;rsquo;t a specific attack on the Reserve Bank, and other users of the file sharing application were also compromised,&amp;rdquo; Orr said.&lt;/li>
+&lt;li>A certification and accreditation process to understand and ensure that any key risks were identified and managed had not been done on the FTA by RBNZ.&lt;/li>
+&lt;li>Unauthorised access was obtained to a third-party developed file transfer system, Accellion File Transfer Application (FTA) (“the System”) used by the Bank in late 2020. This access was obtained by exploiting a previously unknown vulnerability in the FTA application.&lt;/li>
+&lt;/ul></description></item><item><title>Major DDoS attack causes NZX outage, trading halt</title><link>https://cramsthaler.github.io/NZCSIRR/p/major-ddos-attack-causes-nzx-outage-trading-halt/</link><pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/major-ddos-attack-causes-nzx-outage-trading-halt/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>New Zealand’s Stock Exchange - NZX &lt;a class="link" href="https://www.nzx.com/" target="_blank" rel="noopener"
+>https://www.nzx.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The DDoS attacks caused multiple outages, leading to the suspension of trading on the NZX for several days. The exchange experienced interruptions on August 25, 26, and 27, and then again on August 28 and 31. This was a significant disruption as it affected market confidence and the ability of investors to trade.&lt;/li>
+&lt;li>The trading halts affected not only NZX but also had ripple effects on the broader financial market in New Zealand. Traders and investors were unable to execute orders, which could have led to financial losses, missed opportunities, and overall market uncertainty.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Major DDoS attack causes NZX outage, trading halt &lt;a class="link" href="https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-outage-trading-halt" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-outage-trading-halt&lt;/a>&lt;/li>
+&lt;li>NZX has fallen victim to one of the oldest and crudest forms of cyber-crime &lt;a class="link" href="https://www.stuff.co.nz/business/122570956/nzx-has-fallen-victim-to-one-of-the-oldest-and-crudest-forms-of-cybercrime" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/business/122570956/nzx-has-fallen-victim-to-one-of-the-oldest-and-crudest-forms-of-cybercrime&lt;/a>&lt;/li>
+&lt;li>NZX - Connectivity Issue &lt;a class="link" href="https://www.nzx.com/announcements/358738" target="_blank" rel="noopener"
+>https://www.nzx.com/announcements/358738&lt;/a>&lt;/li>
+&lt;li>NZX - Independent reports on NZX IT and cybersecurity completed &lt;a class="link" href="https://www.nzx.com/announcements/364459" target="_blank" rel="noopener"
+>https://www.nzx.com/announcements/364459&lt;/a>&lt;/li>
+&lt;li>NZX -Cost impacts from NZX IT and cybersecurity reviews &lt;a class="link" href="https://www.nzx.com/announcements/365385" target="_blank" rel="noopener"
+>https://www.nzx.com/announcements/365385&lt;/a>&lt;/li>
+&lt;li>FMA releases review of NZX technology issues &lt;a class="link" href="https://www.fma.govt.nz/news/all-releases/media-releases/fma-releases-review-of-nzx-technology-issues/" target="_blank" rel="noopener"
+>https://www.fma.govt.nz/news/all-releases/media-releases/fma-releases-review-of-nzx-technology-issues/&lt;/a>&lt;/li>
+&lt;li>FMA - Market Operator Obligations
+Targeted Review – NZX &lt;a class="link" href="https://www.fma.govt.nz/assets/Reports/Market-Operator-Obligations-Targeted-Review-NZX.pdf" target="_blank" rel="noopener"
+>https://www.fma.govt.nz/assets/Reports/Market-Operator-Obligations-Targeted-Review-NZX.pdf&lt;/a>&lt;/li>
+&lt;li>Akamai report: &lt;a class="link" href="" >https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail&lt;/a>&lt;/li>
+&lt;li>Akamai report: &lt;a class="link" href="" >https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail&lt;/a>&lt;/li>
+&lt;li>Akamai report: &lt;a class="link" href="https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail" target="_blank" rel="noopener"
+>https://www.akamai.com/blog/security/ransom-demands-return-new-ddos-extortion-threats-from-old-actors-targeting-finance-and-retail&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZX or NCSC have not published more details on the attack, e.g. attacker attribution or volumes of the DDOS attack&lt;/li>
+&lt;li>Akamai reported that NZX was one of many victims worldwide and attributing it to &amp;ldquo;Armada Collective and Fancy Bear&amp;rdquo; who are sending out the ransom letters&lt;/li>
+&lt;li>In addition to the information in our (Akamai) previous advisory, we can confirm that we&amp;rsquo;re now seeing attacks peak at almost 200 Gb/sec, utilizing ARMS, DNS Flood, GRE Protocol Flood, SNMP Flood, SYN Flood, and WSDiscovery Flood attacks as their main vectors.&lt;/li>
+&lt;/ul></description></item><item><title>Generate data breach impacts 26,000 New Zealand residents</title><link>https://cramsthaler.github.io/NZCSIRR/p/generate-data-breach-impacts-26000-new-zealand-residents/</link><pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/generate-data-breach-impacts-26000-new-zealand-residents/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Generate &lt;a class="link" href="https://www.generatewealth.co.nz/" target="_blank" rel="noopener"
+>https://www.generatewealth.co.nz/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Approximately 26,000 of the 90,000 clients that have joined Generate over the last 7 years have had personal information accessed illegitimately. (Investment data is held in a completely separate system and was not affected.)&lt;/li>
+&lt;li>Victims were offered to replace their ID&amp;rsquo;s (e.g NZ passport or drivers license)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The original post from the Generate website has been de-published (approx 2023). Here is the site on web archive org: &lt;a class="link" href="https://web.archive.org/web/20201124224506/https://www.generatewealth.co.nz/data-security-incident" target="_blank" rel="noopener"
+>https://web.archive.org/web/20201124224506/https://www.generatewealth.co.nz/data-security-incident&lt;/a> - &lt;a class="link" href="WebArchiveOrg.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;li>The Daily Swig: &lt;a class="link" href="https://portswigger.net/daily-swig/generate-data-breach-impacts-26-000-new-zealand-residents" target="_blank" rel="noopener"
+>https://portswigger.net/daily-swig/generate-data-breach-impacts-26-000-new-zealand-residents&lt;/a> - &lt;a class="link" href="TheDailySwig.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>An unidentified third party gained unauthorised access to Generate website’s online application system between 29 December 2019 and 27 January 2020 and was able to capture the personal information of some of members.&lt;/li>
+&lt;li>Generate had notified the Privacy Commissioner, the Financial Markets Authority, Inland Revenue and reported the incident to the New Zealand Police.&lt;/li>
+&lt;li>Approximately 26,000 of the 90,000 clients that have joined Generate over the last 7 years have had personal information accessed illegitimately.&lt;/li>
+&lt;/ul></description></item><item><title>Cyber security breach at Tū Ora Compass Health</title><link>https://cramsthaler.github.io/NZCSIRR/p/cyber-security-breach-at-t%C5%AB-ora-compass-health/</link><pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/cyber-security-breach-at-t%C5%AB-ora-compass-health/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Tū Ora Compass Health&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Health data for approx 1 Million New Zealander exposed&lt;/li>
+&lt;li>Web Defacement&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Report Health NZ: &lt;a class="link" href="https://www.health.govt.nz/system/files/documents/pages/weekly_report_item_16_august_2018_-_tu_ora_compass_health_incident_redacted.pdf" target="_blank" rel="noopener"
+>https://www.health.govt.nz/system/files/documents/pages/weekly_report_item_16_august_2018_-_tu_ora_compass_health_incident_redacted.pdf&lt;/a> - &lt;a class="link" href="HealthNZ_report.pdf" >Local Copy&lt;/a>&lt;/li>
+&lt;li>Memorandum Health NZ: &lt;a class="link" href="https://www.health.govt.nz/system/files/documents/pages/memorandum_13_september_20191772_redacted.pdf" target="_blank" rel="noopener"
+>https://www.health.govt.nz/system/files/documents/pages/memorandum_13_september_20191772_redacted.pdf&lt;/a> - &lt;a class="link" href="HealthNZ_Memorandum.pdf" >Local Copy&lt;/a>&lt;/li>
+&lt;li>Video Press Conference: Ministry of Health responds to unauthorised digital intrusion at Tū Ora Compass Health: &lt;a class="link" href="https://www.youtube.com/watch?v=eIFJzc9msaI" target="_blank" rel="noopener"
+>https://www.youtube.com/watch?v=eIFJzc9msaI&lt;/a>&lt;/li>
+&lt;li>Stuff NZ: &lt;a class="link" href="https://www.stuff.co.nz/dominion-post/news/116318497/up-to-1-million-new-zealand-patients-data-breached-in-criminal-cyber-hack" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/dominion-post/news/116318497/up-to-1-million-new-zealand-patients-data-breached-in-criminal-cyber-hack&lt;/a> - &lt;a class="link" href="StuffNZ.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;li>RNZ: &lt;a class="link" href="https://www.rnz.co.nz/news/national/400337/pho-hack-more-data-breaches-found-involving-up-to-a-million-patients" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/400337/pho-hack-more-data-breaches-found-involving-up-to-a-million-patients&lt;/a> - &lt;a class="link" href="RNZNews.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>A high-level timeline of the incident is as follows:
+&lt;ul>
+&lt;li>a. 10 July 2019 - Tū Ora was directly contacted by the NCSC notifying them that their web server was exposed to a publicly known vulnerability from 2017. This was not actioned by Tū Ora or their IT service provider.&lt;/li>
+&lt;li>b. 5 August 2019 - Tū Ora web server was exploited by this method and the attacker ‘defaced’ their website, ultimately alerting Tū Ora that they had been attacked.&lt;/li>
+&lt;li>c. 6 August 2019 - Ministry of Health was notified by Tū Ora of the successful attack on their website. Tū Ora Compass Health took immediate steps to contain the incident, called in experts to start an investigation, and notified CERT NZ and the NCSC.&lt;/li>
+&lt;li>d. 8 August 2019 - The NCSC initiated a forensic investigation; this is continuing and is expected to take a further two to three weeks.&lt;/li>
+&lt;li>e. 15 August 2019 – Tū Ora issued a press release stating that is website had come under attack but did not disclose the likelihood that unencrypted personally identifiable information was also stored on that same server.&lt;/li>
+&lt;li>f. 15 August 2019 – NCSC provided an update that three further server exploits were found on the server. Based on the information available to date, the server was compromised twice in 2016, and twice in 2019.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Additionally, access to Tū Ora’s environment would provide access to data held on over one million people that have lived within the geographic area of Capital and Coast, Wairarapa and Mid Central DHBs and registered with a GP over the last 17 years.&lt;/li>
+&lt;li>Privacy Commissioner John Edwards said his office was notified of the breach in early September then had a full briefing on September 9.
+&lt;ul>
+&lt;li>&amp;ldquo;At the time I was briefed, it appeared that the vulnerability did not compromise detailed patient information such as consultation notes, however I was advised that there was a risk that enrolment records, including identifying information, diagnostic codes and lab results might have been able to be accessed by a third party.&lt;/li>
+&lt;li>&amp;ldquo;I was advised that it was not possible to say with certainty whether any of that identifiable data had been accessed and/or exfiltrated.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>NZ Treasury - Unauthorised access to Budget information</title><link>https://cramsthaler.github.io/NZCSIRR/p/nz-treasury-unauthorised-access-to-budget-information/</link><pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/nz-treasury-unauthorised-access-to-budget-information/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>NZ Treasury&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Embargoed Government Budget data leaked&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Treasury News page: &lt;a class="link" href="https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information" target="_blank" rel="noopener"
+>https://www.treasury.govt.nz/news-and-events/news/unauthorised-access-budget-information&lt;/a> - &lt;a class="link" href="TheTreasuryNewZealand.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;li>Secondary source:&lt;a class="link" href="https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked" target="_blank" rel="noopener"
+>https://portswigger.net/daily-swig/new-zealand-govt-finds-sufficient-evidence-it-was-hacked&lt;/a> - &lt;a class="link" href="TheDailySwig.pdf" >Local pdf copy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>An unknown person exploited a feature in the Treasury&amp;rsquo;s website search tool, but this was not deemed unlawful by the Police, so no further action is planned.&lt;/li>
+&lt;li>The Treasury and National Cyber Security Centre are investigating the incident, revealing that a clone of the Treasury website, intended for Budget 2019, contained indexed content that was accessible via specific search terms.&lt;/li>
+&lt;li>Approximately 2,000 search terms were used to extract small amounts of information from the 2019/20 Estimates documents, using phrases from the 2018 Budget followed by “Summary” of each Vote.&lt;/li>
+&lt;li>The searches were systematic and persistent, involving three IP addresses belonging to the Parliamentary Service, 2degrees, and Vocus.&lt;/li>
+&lt;li>The incident led to unauthorized access to limited content from the 2019/20 Estimates documents, intended to be confidential until Budget Day.&lt;/li>
+&lt;li>Treasury Secretary Gabriel Makhlouf acknowledged the breach and announced a review to enhance security and prevent future incidents, with the State Services Commissioner asked to conduct an inquiry.&lt;/li>
+&lt;/ul></description></item><item><title>Links</title><link>https://cramsthaler.github.io/NZCSIRR/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://cramsthaler.github.io/NZCSIRR/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/search/</guid><description/></item></channel></rss>

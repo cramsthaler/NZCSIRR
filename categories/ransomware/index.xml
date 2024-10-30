@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ransomware on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/categories/ransomware/</link><description>Recent content in Ransomware on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/categories/ransomware/index.xml" rel="self" type="application/rss+xml"/><item><title>MediaWorks Data Breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mediaworks-data-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks, a prominent New Zealand-based broadcasting company&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>MediaWorks notified around 403,000 individuals that information they supplied as part of a competition entry had been involved in a cyber attack. The affected database included entries for online competitions dating back to 2016.&lt;/li>
+&lt;li>The types of information held in this database and accessed by the attacker include name, date of birth, gender, postal address and/or post code, email address, phone number, and in some cases images or videos that may have been submitted as part of the entry.&lt;/li>
+&lt;li>Importantly, the affected database did not contain passwords, identity documents, financial information, bank accounts or credit card details.&lt;/li>
+&lt;li>Hackers have begun contacting victims directly via email, demanding NZD $820 to prevent their data from being leaked.&lt;/li>
+&lt;li>Widespread concern among victims and significant reputational damage for MediaWorks.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mediaworks page on webarchive &lt;a class="link" href="https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html" target="_blank" rel="noopener"
+>https://web.archive.org/web/20240322044154/https://www.mediaworks.co.nz/home/latest-news/2024/03/cyber-security-update-and-faq.html&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/511880/alleged-mediaworks-hack-sees-2-point-5m-kiwis-data-stolen&lt;/a>&lt;/li>
+&lt;li>RNZ &lt;a class="link" href="https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/512042/mediaworks-data-breach-hackers-email-victims-demanding-820&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In March 2024, MediaWorks experienced a significant data breach, allegedly carried out by cybercriminals who gained access to the company’s systems and exfiltrated personal data of New Zealanders.&lt;/li>
+&lt;li>The hackers have contacted individuals affected by the breach, demanding ransom payments in exchange for not leaking their personal information.&lt;/li>
+&lt;li>Law enforcement agencies are involved in investigating the attack, and MediaWorks has issued guidance to individuals on how to protect themselves.&lt;/li>
+&lt;li>The hackers&amp;rsquo; demands have escalated concerns over how the data might be used if the ransom is not paid, leading to potential privacy risks for those affected.&lt;/li>
+&lt;li>MediaWorks notified the Privacy Commissioner&lt;/li>
+&lt;li>MediaWorks reported the incident to * CERT NZ and the New Zealand Police&lt;/li>
+&lt;li>In line with New Zealand Government guidance, MediaWorks has not engaged with the attacker.&lt;/li>
+&lt;/ul></description></item><item><title>Auckland University Cyberattack: Significant Breach</title><link>https://cramsthaler.github.io/NZCSIRR/p/auckland-university-cyberattack-significant-breach/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/auckland-university-cyberattack-significant-breach/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Auckland University of Technology (AUT)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Personal information of students, faculty, and staff potentially compromised.&lt;/li>
+&lt;li>Hackers have threatened to release sensitive university data unless a ransom is paid.&lt;/li>
+&lt;li>AUT’s network and systems experienced disruption as a result of the cyberattack.&lt;/li>
+&lt;li>60GB of Data exfiltrated includes confidential student records, research data, and internal university documents.&lt;/li>
+&lt;li>The university has reported the breach to the New Zealand privacy commissioner and is working to minimize harm.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The Record &lt;a class="link" href="https://therecord.media/auckland-university-operating-cyberattack" target="_blank" rel="noopener"
+>https://therecord.media/auckland-university-operating-cyberattack&lt;/a>&lt;/li>
+&lt;li>Stuff &lt;a class="link" href="https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology" target="_blank" rel="noopener"
+>https://www.stuff.co.nz/business/132991897/hackers-threaten-to-dump-data-stolen-from-auckland-university-of-technology&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In September 2023, AUT became the target of a ransomware attack.&lt;/li>
+&lt;li>Hackers claimed they had stolen a significant amount of sensitive data and threatened to release it publicly if a ransom was not paid.&lt;/li>
+&lt;li>The breach affected AUT’s internal systems, causing service disruptions and forcing the university to assess and secure its network infrastructure.&lt;/li>
+&lt;li>AUT engaged with cybersecurity experts and law enforcement agencies to investigate the extent of the breach.&lt;/li>
+&lt;li>The university has been transparent with stakeholders about the attack and has advised affected individuals to take precautionary steps to safeguard their information.&lt;/li>
+&lt;li>The hackers have given a deadline for ransom payment, raising fears of data being leaked if demands are not met.&lt;/li>
+&lt;/ul></description></item><item><title>Mercury IT (Managed Service Provider - MSP) Ransomware attack</title><link>https://cramsthaler.github.io/NZCSIRR/p/mercury-it-managed-service-provider-msp-ransomware-attack/</link><pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/mercury-it-managed-service-provider-msp-ransomware-attack/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mercury IT and it&amp;rsquo;s customers, e.g. NZ governament agencies (Ministry of Justice; Te Whatu Ora)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ministry of Justice said that the attack was preventing it from accessing 14,500 files relating to the transportation of deceased people’s bodies, and roughly 4,000 post-mortem examinations dating from March 2020 to November.&lt;/li>
+&lt;li>Te Whatu Ora, the country’s health ministry, said its access to data relating to bereavement and cardiac services was impacted. It said roughly 8,500 records about bereavement care services were inaccessible, alongside 5,500 records from the cardiac and inherited disease registry.
+“While the above records are currently inaccessible, there is no evidence at this stage that they have been subject to unauthorized access or download,” said the ministry.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Response to managed service provider cyber security incident &lt;a class="link" href="https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F" target="_blank" rel="noopener"
+>https://www.ncsc.govt.nz/news/response-to-managed-service-provider-cyber-security-incident?url=news%2Fresponse-to-managed-service-provider-cyber-security-incident%2F&lt;/a>&lt;/li>
+&lt;li>Privacy Commissioner considers action on ransomware attack &lt;a class="link" href="https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/" target="_blank" rel="noopener"
+>https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/&lt;/a>&lt;/li>
+&lt;li>MoJ Statement - Cyber security incident &lt;a class="link" href="https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/" target="_blank" rel="noopener"
+>https://www.justice.govt.nz/about/news-and-media/media-releases/cyber/&lt;/a>&lt;/li>
+&lt;li>Multiple government departments in New Zealand affected by ransomware attack on IT provider &lt;a class="link" href="https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider" target="_blank" rel="noopener"
+>https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider&lt;/a>&lt;/li>
+&lt;li>Investigation underway into cyber attack which hit thousands of coronial and health files &lt;a class="link" href="https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/480234/investigation-underway-into-cyber-attack-which-hit-thousands-of-coronial-and-health-files&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>An information technology managed service provider who provides services to support a range of organisations, including several government agencies, has experienced a cyber incident that has compromised access to its data and systems.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The provider has engaged external cyber security response support and reported the incident to agencies including the National Cyber Security Centre (NCSC), New Zealand Police, CERT NZ, and the Privacy Commissioner.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Waikato District Health Board ransomware incident</title><link>https://cramsthaler.github.io/NZCSIRR/p/waikato-district-health-board-ransomware-incident/</link><pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/waikato-district-health-board-ransomware-incident/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Waikato District Health Board&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Clinical services across all Waikato public hospitals have been seriously affected by a cyber security incident with all phones and computers down.&lt;/li>
+&lt;li>Clinical services at Waikato, Thames, Tokoroa, Te Kuiti and Taumaranui hospitals are all affected to varying degrees.&lt;/li>
+&lt;li>surgeries were postponed, and seriously ill patients had to be transferred to
+other hospitals within other DHBs .&lt;/li>
+&lt;li>Corporate and patient information was also posted on the internet and then reported in mainstream media.&lt;/li>
+&lt;li>It took several months for WDHB to restore the systems compromised by the attacker and address the backlog of surgeries and appointments that resulted from the attack. The incident was officially closed out on the 10 h of November 2021 – the majority of systems had been recovered and were operating securely by this date.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Waikato hospitals hit by cyber security incident &lt;a class="link" href="https://www.rnz.co.nz/news/national/442795/waikato-hospitals-hit-by-cyber-security-incident" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/442795/waikato-hospitals-hit-by-cyber-security-incident&lt;/a>&lt;/li>
+&lt;li>WAIKATO DISTRICT HEALTH BOARD (WDHB) INCIDENT RESPONSE
+ANALYSIS &lt;a class="link" href="https://www.tewhatuora.govt.nz/assets/Publications/Proactive-releases/WDHB-Final-Report-2.0-redacted.pdf" target="_blank" rel="noopener"
+>https://www.tewhatuora.govt.nz/assets/Publications/Proactive-releases/WDHB-Final-Report-2.0-redacted.pdf&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The Ministry of Health (MOH) said the &amp;ldquo;attempted cyber incident&amp;rdquo; occurred overnight and all the internal systems, except for email, were temporarily shut down.&lt;/li>
+&lt;li>On the 18th of May 2021, the WDHB became the victim of a large-scale criminal
+ransomware attack.&lt;/li>
+&lt;li>WDHB’s initial response was to physically disconnect from the Internet and other health systems all its own services, including corporate IT systems,laptops, printers, phones, medical devices, and any cloud services to protect from any
+further potential compromise by the attacker.&lt;/li>
+&lt;li>This affected healthcare services across the region, including Waikato Hospital, Thames Hospital, Te Kuiti Hospital, Tokoroa Hospital, and Taumarunui Hospital. It also affected other DHBs, primary and community providers who used shared services, including shared clinical services.&lt;/li>
+&lt;li>Cloud services such as MS Teams, email, and the IT service management system remained available, and came to be accessed by clinical staff using ‘new’ machines.&lt;/li>
+&lt;/ul></description></item></channel></rss>

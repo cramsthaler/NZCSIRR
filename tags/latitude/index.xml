@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latitude on NZCSIRR</title><link>https://cramsthaler.github.io/NZCSIRR/tags/latitude/</link><description>Recent content in Latitude on NZCSIRR</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cramsthaler.github.io/NZCSIRR/tags/latitude/index.xml" rel="self" type="application/rss+xml"/><item><title>Latitude cyber attack</title><link>https://cramsthaler.github.io/NZCSIRR/p/latitude-cyber-attack/</link><pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate><guid>https://cramsthaler.github.io/NZCSIRR/p/latitude-cyber-attack/</guid><description>&lt;p>&lt;strong>Impacted Agency:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Latitude (although this is an Australian company it had an impact on many New Zealanders)&lt;/li>
+&lt;li>Latitude Financial Services Limited NZ provides a wide range of financial and (limited) insurance services to customers across New Zealand via Gem Finance and Gem Visa and several subsidiary groups.&lt;/li>
+&lt;li>Latitude Financial Services Limited NZ is a subsidiary of Latitude Holdings based in Australia.&lt;/li>
+&lt;li>Latitude Financial have estimated that 14 million NZ and Australian customer records have been exposed because of the 12 March attack of which around 1.08 million are NZ customer records.&lt;/li>
+&lt;li>The 1.08 million NZ customer records includes around 1.037 million driver license records, around 40,000 passport records and sensitive income and expense information. The income and expenditure information was submitted as part of a personal loan application process.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Customers and applicants in Australia and New Zealand who had one or more of the following compromised:&lt;/li>
+&lt;li>Approximately 7.9 million driver licence numbers and some but not necessarily all of: name, address, telephone and date of birth&lt;/li>
+&lt;li>Approximately 103,000 copies of driver licences or passports&lt;/li>
+&lt;li>Approximately 53,000 passport numbers&lt;/li>
+&lt;li>Less than 100 monthly account statements&lt;/li>
+&lt;li>Income and expense information used to assess approximately 900,000 loan applications, including approximately 308,000 bank account numbers (but not passwords) for the disbursement of funds and approximately 143,000 credit card or credit card account numbers (but not card expiry or 3-digit CVC) for debt consolidation, the overwhelming majority of which are expired or closed.&lt;/li>
+&lt;li>Where needed Latitude reimbursed customers for the replacement cost of their stolen ID document.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>References:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Latitude &amp;ldquo;Statement of Notification&amp;rdquo; &lt;a class="link" href="https://www.latitudefinancial.com.au/cyber-statement-of-notification" target="_blank" rel="noopener"
+>https://www.latitudefinancial.com.au/cyber-statement-of-notification&lt;/a>&lt;/li>
+&lt;li>Latitude Cyber Response &lt;a class="link" href="https://www.latitudefinancial.com.au/latitude-cyber-incident/" target="_blank" rel="noopener"
+>https://www.latitudefinancial.com.au/latitude-cyber-incident/&lt;/a>&lt;/li>
+&lt;li>NZ Privacy Commissioner: &amp;ldquo;New Zealand-Australia investigation into Latitude breach begins&amp;rdquo; &lt;a class="link" href="https://www.privacy.org.nz/publications/statements-media-releases/new-zealand-australia-investigation-into-latitude-breach-begins/" target="_blank" rel="noopener"
+>https://www.privacy.org.nz/publications/statements-media-releases/new-zealand-australia-investigation-into-latitude-breach-begins/&lt;/a>&lt;/li>
+&lt;li>GemFinance: &amp;ldquo;Latitude Cyber Incident Update&amp;rdquo; (original de-published, link to archive.org) &lt;a class="link" href="https://web.archive.org/web/20240508040501/https://gemfinance.zendesk.com/hc/en-nz/articles/13777730237713-Latitude-Cyber-Incident-Update" target="_blank" rel="noopener"
+>https://web.archive.org/web/20240508040501/https://gemfinance.zendesk.com/hc/en-nz/articles/13777730237713-Latitude-Cyber-Incident-Update&lt;/a>&lt;/li>
+&lt;li>NZTA on replacement of NZ driver license: &lt;a class="link" href="https://www.nzta.govt.nz/driver-licences/latitude-financial-services-data-incident/" target="_blank" rel="noopener"
+>https://www.nzta.govt.nz/driver-licences/latitude-financial-services-data-incident/&lt;/a>&lt;/li>
+&lt;li>RNZ Three months after Latitude cyberattack, some victims still not notified &lt;a class="link" href="https://www.rnz.co.nz/news/national/492222/three-months-after-latitude-cyberattack-some-victims-still-not-notified" target="_blank" rel="noopener"
+>https://www.rnz.co.nz/news/national/492222/three-months-after-latitude-cyberattack-some-victims-still-not-notified&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>On 16 March 2023, Latitude1 announced that it had experienced a malicious cyber-attack over the prior few days that resulted in a data theft.&lt;/li>
+&lt;li>Our investigation identified that the cybercriminals used a compromised credential, obtained via a third-party, to access Latitude&amp;rsquo;s network and steal personal information.&lt;/li>
+&lt;li>We immediately alerted relevant authorities and law enforcement agencies, including the Australian Cyber Security Centre (ACSC) and the Australian Federal Police (AFP), and engaged external cyber security specialists to work alongside our own teams.&lt;/li>
+&lt;li>This crime remains under investigation by the AFP. We also notified the Office of the Australian Information Commissioner (OAIC) and the New Zealand Office of the Privacy Commissioner (OPC) about the incident on 16 March 2023, and we continue to work with them.&lt;/li>
+&lt;/ul></description></item></channel></rss>
