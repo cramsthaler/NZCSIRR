@@ -32,5 +32,4 @@ If you would like to see other incidents added here, please send me the link to 
 | Version  | Date     | Comment                                                   |
 | -------- | -------- | ----------------------------------------------------------|
 | 1.01     | 29/10/2024| added 3 more incidents           |
-| -------- | -------- | ----------------------------------------------------------|
 | 1.0      | 11/10/2024| Initial Publication: 11 NZ incidents from 2019-2024 & 1 report|
